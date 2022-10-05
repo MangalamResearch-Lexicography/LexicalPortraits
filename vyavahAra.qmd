@@ -1,0 +1,92 @@
+---
+title: "vyavahāra"
+editor: visual
+---
+
+## <font color='indianred'>overview</font> {#sec-overview}
+
+[***vyavahār**am an-āśritya paramārtho na deśyate / paramārtham an-āgamya nirvāṇaṃ n\^ādhigamyate //* \[bhāvanākrama 177\] "Without relying on conventions, the sublime meaning cannot be taught. Without understanding the sublime meaning, one will not attain nirvana." \[Batchelor\]]{.aside}
+
+At its core, vyavahāra expresses the idea of <b>common practice</b>. (<font color='#4682B4'>customary practice/common experience</font>). Within this broad sense, its precise meaning is rather malleable. It can point to a specific behaviour (especially with √kṛ and instrumental) EX? or acquire a more subjective tinge and take up a meaning closer to experience, typically ordinary, everyday experience. [^vyavahara-1]
+
+[^vyavahara-1]: *nāyaṃ pratītivirodhalakṣaṇo doṣaḥ / kutaḥ? yogināṃ pudgalanairātmyasamādhilābhināṃ yā saṃvṛtirvyavahāraḥ, tayā kṣaṇikatayā pratīteḥ / ayam abhiprāyaḥ- yadi nāma arvāgdarśanaiḥ kṣaṇikatvaṃ na pratīyate, tathāpi yogivyavahāragocaraḥ / yogivyavahāro 'pi saṃvṛtirūpatāṃ na jahāti, buddhiḥ saṃvṛtirūcyate iti vacanāt / na ca pratītibādhitaṃ bādhitameva, tathāvidhāyāḥ pratīterapramāṇatvāt //* (bodhicaryāvatārapañjikā 182). There is not the fault characterised as being contrary to perception. Why? Because they are perceived as momentary by way of the conventional \[truth\], conventional usage, of the yogins who have obtained meditative concentration on the non-self of the person. This is the intent: Even if momentariness is not perceived by those seeing this side, nevertheless, it is the object of the conventional usage of yogins (Oldmeadow 377.12)
+
+Often context also narrows down vyavahāra's meaning by highlighting which kind of common practices it refers to. In our corpus, these tends to be primarily communication and business practice. These contextual specifications yield the meanings of <b>language usage</b> and <b>mundane affairs</b>.
+
+The sense of <b>mundane affairs</b>, predominant in narrative literature, typically refers to trading and business activities,[^vyavahara-2] but can be stretched to also include the more specialized sense of legal proceedings, which is rare in our corpus but well attested in non-Buddhist sources.[^vyavahara-3]
+
+[^vyavahara-2]: ca sukhita-jana-manuṣyaṃ ca praśānta-daṇḍa-ḍamaraṃ su-nigṛhīta-taskaraṃ \<b\>vyavahāra\</b\>-sampannaṃ // (Mahāvastu, 1.272) "His kingdom was prosperous, flourishing and peaceful, had plenty of food, and was well and thickly peopled with happy subjects. Violence and riot had ceased, robbers were held in check, and commerce thrived." \\\[Jones vol. I 225\\\]
+
+[^vyavahara-3]: *iṣṭeṣv an-iṣṭeṣu ca kāryavatsu na rāga-doṣ\^āśrayatāṃ prapede śivaṃ siṣeve vyavahāra-śuddhaṃ yajñaṃ hi mene na tathā yathā tat //* buddhacarita 2.39 "**Toward litigants,** whether friend or foe, he never displayed either love or hate;**honesty in court** he practiced as a sacred act, for he deemed it better than a sacrificial rite." \[Olivelle 49\]
+
+The sense of <b>language usage</b> (<font color='#4682B4'>language usage/communication practice</font>), predominant in sūtras and earlier śāstras, typically brings out the contrast between the inexpressibility of reality and the necessity to communicate it in words.[^vyavahara-4] Translations frequently represent this sense of vyavahāra as pertaining to "linguistic conventions"; however the conventional aspect of language as a set of agreed upon symbols is more precisely captured by the near synonym *saṃketa*. Vyavahāra appears rather to foreground the practical, de-facto, aspect of communication.[^vyavahara-5]
+
+[^vyavahara-4]: *na hi vyavahāra-satyam an-āgamya śakyā dharma-deśanā kartuṃ /* vigrahavyāvartanī 266 ("For it is not without having had recourse to the conventional truth that the nature of things can be explained." \[Westerhoff 29\])
+
+[^vyavahara-5]: *tasmāt tathāgato mahākāruṇiko lokasya \^ uttrāsapadaparihār \^ ārthaṃ \*\*vyavahāra\*\*vaśād uktavān; utpadyate nirudhyate c \^ eti na c \^ ātra kasyacid dharmasya \^ utpādaḥ iti /* bhāvanākrama1&3 77 ("Therefore, the supremely compassionate Tathagata, in order to abolish the world's areas of fear had said for practical reasons, that 'there is birth, there is cessation', and certainly not (for the reason) that, in the ultimate sense, any dharma is born." \[Sharma 24\]) ; *na c\^otpadyā na c\^otpannāḥ pratyayo 'pi na kecana / saṃvidyante kvacit tena vyavahāraṃ tu kathyate //* laṅkāvatārasūtra 113 ("There is nothing that is to be born, nor is there anything that has been born; even causation is not; it is because of worldly usage that things are talked of as existing." \[Suzuki 75\])
+
+It is often very difficult to tease apart the senses of vyavahāra. The boundaries between the sense of ordinary experience and language practice are especially blurry, in particular in pramāṇa literature, where it is not always clear (at least not to reader less then well-versed in the pramāṇa discourse) whether vyavahāra refers to a verbal assertion regarding something (e.g. asserting that something is absent), to the ordinary experience of that thing (experiencing that something is absent) or to the common practice generally adopted of towards it (treating it as absent). It may well be possible that these semantic distinctions are but an artefact of translation, and the Sanskrit word was fundamentally ambiguous.[^vyavahara-6]
+
+[^vyavahara-6]: A passage from the *Tarkābhāṣā* is interesting in this regard. A parallel construction between vyavahāra √kṛ, which indicates a behaviour, and vyavahāra √sādh, which suggest a proposition, and the explication of trividho vyavahāra as including both kayika and vācika vyavahāra suggest either an intentional pun or that vyavahāra was perceived as intrinsically vague and able to express different semantic nuances within a single passage without compromising its coherence: abhāva**vyavahāras** tu mūḍhaṃ prati **anupalambhena sādhyate** / tathā hikaścinmūḍho rajaḥprabhṛtiṣu sāṅkhyaprasiddheṣu guṇeṣvanupalambhena pravartitābhāvavyavahāro 'pi punaḥ sarvaṃ sarvatrāstīti svasiddhāntābhyāsāt kvā 'pi pradeśādau ghaṭānupalambhe satyapi nābhāvavyavahāraṃ karotīty **anupalambhena** trividho **vyavahāraḥ kāryate** /tatra niḥśaṅkarāmanāgamanalakṣaṇaḥ **kāyiko vyavahāraḥ** / ghaṭo **nāstīti vācikaḥ** / īdṛśa eva **antarjalpākāro mānasikaś** ceti / (Tarkabhāṣā, 30)
+
+## <font color='indianred'>frequency</font>
+
+Vyavahāra is a <code>fairly frequent</code> word with a very </code>uneven distribution</code> across our corpus.
+
+It is rare in narrative literature, where according to our sampled sentences it instantiates mostly the sense of mundane affairs, and it is not very frequent in sūtra and early śāstras, where it is loosely tied to the discourse on language and the two truths, while it is \<code\>hugely over-represented in later philosophical literature, especially of the pramāṇa tradition\</code\> (see by tradition tab).
+
+::: column-margin
+![genre dispersion](www/genreDP_vyavahAra.webp)
+:::
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+::: column-margin
+Frequency and dispersion</code> are calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
+:::
+
+![lemma's frequency compared to near-synonyms](www/ZipfCurveFreq_vyavahAra.webp){#fig-freqcurve}
+
+## genre dispersion {#sec-genredp1}
+
+::: column-margin
+Frequency and dispersion</code> are calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
+:::
+
+![genre dispersion](www/genreDP_vyavahAra.webp){#fig-genredp1}
+
+## period disp. {#sec-perioddp1}
+
+::: column-margin
+Frequency and dispersion</code> are calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
+:::
+
+![period dispersion](www/periodDP_vyavahAra.webp){#fig-perioddp1}
+
+## by tradition {#sec-traditionBars}
+
+::: column-margin
+Frequency and dispersion</code> are calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
+:::
+
+![by tradition](www/TraditionFreq_vyavahAra.webp){#fig-traditionBars}
+
+## info {#sec-disperioninfo}
+
+<code>frequency and dispersion</code> are calculated over a version of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822), as opposed to the smaller corpus used for the Visual Dictionary and Thesaurus of Buddhist Sanskrit (see <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation for details).
+
+For the sake of readability, only words occurring at least 5 times in the corpus have been plotted on the frequency and dispersion curves.
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frquencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437).
+
+the <code>sense by genre</code> plot is based on a sample of sentences that we have manually annotated with semantic information for the Visual Dictionary and Thesaurus of Buddhist Sanskrit. For details about our sampling and annotation procedures see the <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation page.
+:::

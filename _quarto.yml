@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+  twitter-card: true
+
+book:
+  title: "Lexical Portraits"
+  subtitle: "Part of A Visual Dictionary and Thesaurus of Buddhist Sanskrit"
+  author: "Ligeia Lugli"
+  date: "31/03/2022"
+  image: SynchordLanguage.png
+  chapters:
+    - index.qmd
+    - prajJapti.qmd
+    - vitarka.qmd
+    - vyavahAra.qmd
+    - bibliography.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: www/styles.css
+    toc: true
+    toc-depth: 4
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: SynchordLanguage.png
+editor: visual
+

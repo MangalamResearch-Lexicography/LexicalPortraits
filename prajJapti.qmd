@@ -1,0 +1,299 @@
+---
+title: "prajñapti"
+---
+
+## <font color='indianred'>overview</font> {#sec-overview}
+
+[*kiṃ c\^edaṃ dravyata iti kiṃ vā **prajñapt**itaḥ / rūp\^ādivat bhāv\^āntaraṃ cet dravyataḥ / kṣīr\^ādivat samudāyaś cet prajñaptitaḥ /* \[abhidharmakośabhāṣya, 461\]\
+"Does the pudgala exists as a real entity or as a nominal construct? If a person is a distinct entity like visible form and other such things, he is substantially real; but if \[by analysis\] he is \[shown to be\] a collection \[of substances\], like milk and other such things, he is real by way of a conception." \[Duerlinger 73\]]{.aside}
+
+The core meaning of prajñapti (also spelled prajñāpti) is close to its etymological sense, which conveys the idea of 'making known'. In our corpus, this broad sense finds two main semantic applications, the closely related meaning of <b>verbal expression</b> and the derived sense of <b>designating something for a specific use</b> (<font color='#4682B4'>designating for a use/allocating</font>), which typically refers to allocating seats to participants in an assembly (e.g <i>Divyāvadāna</i>, 468.017). [^prajjapti-1]
+
+[^prajjapti-1]: *bahir nagarasya pañca vihāra-śatāni kāritāni pañca mañca-pīṭha-vṛṣi-koccaka-bimbopadhāna-caturasraka-śatāni dāpitāni pañca piṇḍapāta-śatāni prajñaptāni vistīrṇ\^-āvakāśe ca pṛthivī-pradeśe āsana-**prajñaptiḥ*** *kāritā /*\[divyāvadāna_selection, 468.017\]\
+    "He also commissioned five hundred monastic dwellings outside of the city; gave out five hundred chairs, seats, cushions, woolen blankets, pillows, and shawls; distributed five hundred meals; and had a seat specially prepared for the venerable Mahākātyāyana in a wide-open tract of land." \[Rotman\]
+
+The former sense is by far the most widespread and semantically nuanced. It comprises several different uses, all of which stand on continuum between verbal expressions and their cognitive counterpart, that is, concepts and notions, e.g. <i>Abhidharmakośabhāṣya</i>, 140. [^prajjapti-2]
+
+[^prajjapti-2]: *yath\^oktam ātmā ātm\^eti bhikṣavo bālo 'śrutavān pṛthagjanaḥ **prajñapt**im anupatito na tv atr\^ātmā vā ātmīyaṃ vā iti /* \[abhidharmakośabhāṣya, 140\]\
+    "It is said in fact, 'The fool, the ignorant, the Pṛthagjana, conforming to the manners of vulgar speech, thinks "me," or "mine;" but there is not any "me" or "mine."'" \[Pruden 419\]
+
+This latter use (labelled <font color='#4682B4'>verbal expression/notion</font>), finds a specialized application in the Buddhist ontological discourse, especially (but not exclusively) in abhidharmic contexts, where it comes to denote the merely conceptual nature of phenomena ,or <font color='#4682B4'>nominal existence (+sat)</font>. In this sense, prajñapti is typically compounded with <i>sat</i> and contrasted with <i>dravya-sat</i>, e.g. <i>Abhisamayālaṃkāra</i>, 5.5. [^prajjapti-3]
+
+[^prajjapti-3]: *dravya-**prajñapti**-sat-sattva-vikalpau grāhakau matau / pṛthagjan\^-ārya-bhedena pratyekaṃ tau nav\^-ātmakau // 5.6 //* \[abhisamayālaṃkāra, 5.5\]\
+    "(The Sutra then) considers the two (false) discriminations of the subject. The one regards beings (or persons) as (real) substantial entities, the second as (merely) nominal entities. The first refers to the common people, the second to the saints. Each one consists of nine items." \[Conze 81\]
+
+In contrast to this specialized meaning, the sense of prajñapti as verbal expression is much broader. It encompasses one-word <font color='#4682B4'>designation</font>s (e.g. <i>Mahāvastu</i>, 1.351) [^prajjapti-4] as well as statements and lengthy expositions, such as the <font color='#4682B4'>exposition/formulation</font> of teachings and monastic rules (e.g. <i>Bhikṣuṇīvinaya</i>, 179). [^prajjapti-5] In this sense, prajñapti features in the title of several works and in our corpus it appears to refer to the <font color='#4682B4'>title of a treatise</font> in particular, e.g. <i>Abhidharmakośabhāṣya</i>, 419) [^prajjapti-6]
+
+[^prajjapti-4]: *teṣāṃ dāni kumārāṇāṃ śakyaṃ śākiyā ti samākhyā-samājñā-**prajñapti**udapāsi //* \[mahāvastu, 1.351\]\
+    "'Cunning, sirs, are these princes.' And from the 'cunning' of these princes arose their name, appellation and designation of Śākiyans." \[Jones 297\]
+
+[^prajjapti-5]: *... iti svayan na upasampādayet niḥsargika-pācattikaṃ / yāvat **prajñaptiḥ**/* \[bhikṣuṇīvinaya, 179\]\
+    "C'est une faute entraînant abandon \[de l'objet en cause\] et aveu formel -etc ... promulgation." \[Nolot 178\]
+
+[^prajjapti-6]: ***prajñapt**au tu pratisaṃvidām eva nirdeśaḥ /* \[abhidharmakośabhāṣya, 419\]\
+    "According to the Prajñaptipāda, the Unhindered Knowledges are in the following order: \[...\]." \[Pruden 1154\]
+
+The boundaries between these uses of prajñapti tend to be blurry. The semantic categorization we provide is, at best, porous, as it is often impossible to determine whether in a given passage this word refers to a designation, a notion or an entity that is only taken to exist nominally.
+
+::: column-body-outset
+![semantic tree](www/semanticTree_prajJapti.png){#fig-semantictree}
+:::
+
+## <font color='indianred'>frequency</font> {#sec-freq}
+
+prajñapti is a <code>mid-frequency</code> word in our corpus (see frequency graph below). While its dispersion over genres is relatively even when compared to other words in our corpus (see graphs on the right),
+
+::: column-margin
+![genre dispersion](www/genreDP_prajJapti.webp){#fig-genredp}
+:::
+
+the graph in the next section shows that prajñapti is in fact <code>mostly attested in vinaya, sūtra and śāstra literature</code>; whereas it is extremely rare in other genres.
+
+An analysis of the the distribution of its senses reveals further <code>differences in the use of prajñapti across genres</code> (see sense by genre tab).
+
+The sense of exposition/formulation, which is perhaps the closest to the core meaning of the headword, is the only one to be attested in all genres. By contrast, the sense of verbal expression/notion, which is responsible for most attestations of prajñapti in the sample of sentences that we have manually annotated for the dictionary, is limited to śāstra and sūtra material.
+
+Prajñapti's dispersion over periods is very similar to its dispersion over genres; but it is more in line with the diachronic dispersion of other words in our corpus, which tend to be more evenly dispersed across periods than across genres (see genre dispersion graph on the right).
+
+::: column-margin
+![period dispersion](www/periodDP_prajJapti.webp){#fig-perioddp}
+:::
+
+Nevertheless, prajñapti's <code>normalised frequency drops noticeably in the later 'commentarial' layer</code> of the corpus, which dates from the VI century onwards (see frequency by period tab).
+
+::: panel-tabset
+## frequency graph {#sec-freqcurve}
+
+::: column-margin
+Frequency and dispersion</code> are calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frquencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
+:::
+
+![lemma's frequency compared to near-synonyms](www/ZipfCurveFreq_prajJapti.webp){#fig-freq}
+
+## sense by genre {#sec-sensebygenre}
+
+::: column-page
+![sense by genre](www/SenseByGenre_prajJapti.png){#fig-sensebygenre}
+:::
+
+## frequency by period {#sec-freqbyperiod}
+
+![frequency by period](www/PeriodFreq_prajJapti.webp){#fig-freqbyperiod}
+
+## info {#sec-disperioninfo}
+
+<code>frequency and dispersion</code> are calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822), as opposed to the smaller corpus used for the Visual Dictionary and Thesaurus of Buddhist Sanskrit (see <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation for details).
+
+For the sake of readability, only words occurring at least 5 times in the corpus have been plotted on the frequency and dispersion curves.
+
+Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frquencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437).
+
+the <code>sense by genre</code> plot is based on a sample of sentences that we have manually annotated with semantic information for the Visual Dictionary and Thesaurus of Buddhist Sanskrit. For details about our sampling and annotation procedures see the <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation page.
+:::
+
+## <font color='indianred'>register</font> {#sec-register}
+
+<font color='indianred'>register</font> <br /><br /> Overall, the distribution of prajñapti over the genres points to a rather <code>formal register</code> and a predominantly scholastic use. <br /><br /> Even the sense of <font color='steelblue'>designating something for use</font>, which recurs in storytelling settings, appears to be crystallized in a formula and lack the contextual malleability of general-language words. <br /><br /> The meaning of <font color='steelblue'>exposition/application</font>, too, has a formulaic flavor in the Vinaya (see examples from the <i>Bhikṣuṇivanaya</i>) where it denotes the codification of rules, a meaning that emerges also in other genres, where prajñapti expresses a sense close to the English 'precepts' (e.g. <i>Bodhicāryāvatara</i>, 2.63).<br /><br /> Finally, the specialized use of <font color='steelblue'>prajñapti + sat</font> has <code>terminological value</code>, as it corresponds to a specific node in the Buddhist ontological system. Uses of this word without <i>sat</i> in Mahāyāna homiletic contexts, such as in statements to the effect that all is 'mere prajñapti' (e.g. <i>Laṅkāvatāra</i>, 68: <i>prajñapti-mātrān tribhavaṃ n\^āsti vastu-svabhāvataḥ</i>), may echo prajñapti's terminological use, but appear to have a less precise denotation and are likely to mean simply <font color='steelblue'>verbal expression or notion</font>.
+
+::: panel-tabset
+## frequency by genre {#sec-freqbygenre}
+
+::: column-margin
+The <b>height of the bars</b> in the charts indicates the <b>normalized</b> frequency of the lemma per 10,000 words, the <b>colour of the bars indicates the absolute frequency</b>. The brighter the colour, the highest the absolute frequency of the lemma. The absolute frequency of the lemma is also reported in the numbers on top of each bar.
+:::
+
+![frequencies normalized by 10k words](www/FreqByGenre_prajJapti.png){#fig-freqbygenre}
+
+## by text {#sec-freqbytext}
+
+::: column-margin
+The texts are arranged in decreasing order of absolute frequency, left to right. The height of the bars in the charts indicates the normalized frequency of the lemma per 10,000 words, the colour of the bars indicates the absolute frequency. The brighter the colour, the highest the absolute frequency of the lemma. <b>Hover on bars to see title and frequency information</b>.
+:::
+
+<iframe width="700" height="315" src="www/FreqByText_prajJapti.html">
+
+</iframe>
+
+## info
+
+Frequency is calculated over the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822), as opposed to the smaller corpus used for semantic annotations in the Visual Dictionary and Thesaurus of Buddhist Sanskrit (see <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation for details).
+
+The <code>height of the bars</code> in the charts indicates the <code>normalized frequency of the lemma per 10,000 words</code>, the colour of the bars indicates the absolute frequency (i.e. the relative size of the texts/corpus in which the word occurs is not taken into account). <code>The brighter the colour, the highest the absolute frequency of the lemma</code>. The absolute frequency of the lemma is also reported in the numbers on top of each bar.
+:::
+
+## <font color='indianred'>context</font> {#sec-context}
+
+Prajñapti's polysemy is reflected in the <code>variety of contexts</code> in which it occurs.
+
+The sense of <font color='steelblue'>designating something for a use</font> is typically instantiated in passages describing the <code>preparations made for hosting an assembly</code> and accompanied by the collocate <i>āsana</i>, although a wider range of words can be governed by prajñapti in this sense (see also the cognate <i>prajñapta</i>, which expresses a similar sense).
+
+In the specialized sense of <font color='steelblue'>nominal existence</font>, prajñapti occurs in the context of <code>ontological discussions</code>, where it is usually contrasted with <i>dravya</i> and accompanied by <i>sat</i>, as well as words associated with key Buddhist ontological issues, such as <i>pudgala</i> and <i>skandha</i>.
+
+A similar, but broader context frames prajñapti's instantiations of the senses <font color='steelblue'>verbal expression/notion</font> and <font color='steelblue'>designation</font>, both of which typically occur in passages related to the <code>Mahāyāna discourse on language</code>. Here, prajñapti tends to be accompanied by the usual lexical markers of Mahāyāna reflections on reality, such as <i>dharmatā</i> and <i>mātra</i>, as well as by its near-synonyms <i>saṃjñā</i>, <i>vyavahāra</i> and <i>saṃketa</i>. In this regard, it is important to note that while prajñapti is semantically and contextually close to both <i>vyavahāra</i> and <i>saṃketa</i>, the idea of <code>conventionality is less central to prajñapti than to these two words</code>. Contrary to <i>vyavahāra</i> and <i>saṃketa</i>, prajñapti foregrounds the purely communicative aspect of verbalization, rather than its social and transactional dimensions.
+
+::: column-margin
+<i>Bodhicaryāvatāra</i> (2.63: <i>prakṛtyā yac ca sāvadyaṃ <b>prajñapty</b>\^āvadyam eva ca</i>): 'péché contre la loi naturelle, péché contre les lois de la Confrérie'.
+
+The meaning of <b>'precepts'</b>, or more generally <b>exposition/formulation</b>, is the most widely spread of prajñapti's senses in our corpus, and it is especially prominent in the context of vinaya literature
+:::
+
+Verses that contrast prajñapti with <i>prakṛti</i> have sometimes been taken as evidence for interpreting this lemma as denoting what is conventional as opposed to what is natural (notably Edgerton sub voce prajñapti). However, one set of these verses, <i>Śikṣāsamuccaya 192.13</i> (<i>na teṣām a-sāmarthye api prakṛti-duṣṭatvād gṛhāvāsasya ca prajñapti-sāvadyatvād iti //</i>), depicts the houselder's life as 'blameworthy' by prajñapti, and it is doubtful that such way of life was considered 'blameworthy by convention' (Edgerton's rendition) in ancient India. 'Precepts' may be a more natural interpretion of prajñapti here, in line with de la Vallee Poussin's translation of a similar stanza in the <i>Bodhicaryāvatāra</i> (2.63: <i>prakṛtyā yac ca sāvadyaṃ <b>prajñapty</b>\^āvadyam eva ca</i>): 'péché contre la loi naturelle, péché contre les lois de la Confrérie'.
+
+The meaning of 'precepts', or more generally <font color='steelblue'>exposition/formulation</font>, is the most widely spread of prajñapti's senses in our corpus, and it is especially prominent in the context of <code>vinaya literature</code>. Here, <i>pācattika</i> is a notable collocate. In other genres, the words contextually associated with prajñapti in this sense are mostly verbs meaning teaching, such as <i>upadiś</i>. "
+
+::: panel-tabset
+## keywords
+
+::: column-margin
+The size of words in the <b>wordcloud is proportional to the Log Ratio</b>. (for information on this statistics see <a href='http://cass.lancs.ac.uk/log-ratio-an-informal-introduction/' target='_blank'>Hardie 2014</a> )
+
+<b>words in red occur together with the lemma in at least 10% of the texts.</b> the number that shows when hovering over the words is the Log Ratio.
+:::
+
+<iframe width="700" height="315" src="www/wordcloud_prajJapti.html">
+
+</iframe>
+
+## info
+
+the wordcloud displays words that are statitistically over-represented in the immediate context of the lemma (defined as the words that occur in the same sentence as the lemma), compared to their overall frequency in the rest of the \~7-million words Segmented Corpus of Buddhist Sanskrit.
+
+The statistics used for keyness are Log Likelyhood over 10, Log Ratio over 2. For the sake of readability, only keywords that occur at least 20 times in the lemma's citations are included in the wordcloud and table.
+
+The size of words in the <b>wordcloud is proportional to the Log Ratio</b>. (for information on this statistics see <a href='http://cass.lancs.ac.uk/log-ratio-an-informal-introduction/' target='_blank'>Hardie 2014</a> )
+
+<b>words in red occur together with the lemma in at least 10% of the texts.</b> the number that shows when hovering over the words is the Log Ratio.
+:::
+
+## <font color='indianred'>connotation</font> {#sec-connotation}
+
+Overall, prajñapti has a <code>neutral connotation</code>.
+
+However, when it expresses the meaning of <font color='steelblue'>exposition/formulation</font>, especially in the context of the Buddha's teaching, it is sometimes surrounded by words with a markedly positive connation. These words lend a <code>positive semantic prosody</code> to prajñapti in about 20% of the citations that we manually annotated with this sense (in yellow in the chart).
+
+By contrast, when it expresses the meanings of verbal <font color='steelblue'>expression/notion</font> and <font color='steelblue'>nominal existence</font>, prajñapti acquires a <code>slighly negative semantic prosody</code> in about 30% of the citations we annotated (in pale red in the graph). The negative tinge mostly derives from emphasis on the 'mere' nominal value and illusoriness of entities that exist by way of prajñapti.
+
+::: column-margin
+<b>semantic prosody</b> (sem.pros) here refers to whether a lemma acquires a positive or negative overtone in context.
+:::
+
+::: panel-tabset
+## semantic prosody proportion
+
+::: column-margin
+The barcharts are based on manually annotated data. Please refer to the documentation of A Visual Dictionary and Thesaurus of Buddhist Sanskrit for information on the corpus and sampling frame used.
+:::
+
+<iframe width="700" height="315" src="www/semprosFill_prajJapti.html">
+
+</iframe>
+
+## absolute freq
+
+<iframe width="700" height="315" src="www/semprosDodge_prajJapti.html">
+
+</iframe>
+
+## info
+
+The barcharts are based on manually annotated data.
+
+Please refer to the documentation of A Visual Dictionary and Thesaurus of Buddhist Sanskrit for information on the corpus and sampling frame used.
+
+<b>semantic prosody (sem.pros) here refers to whether a lemma acquires a positive or negative overtone in context.</b> Generally the semantic prosody associated to a word emerges from a repeated pattern of use. For example we can say that 'set in' has a negative connotation in English because it is systematically associated with words that possess a negative connotation (Louw 1993). For a pattern to emerge, we need to consider many individual instances. To this end in this project we treat semantic prosody slightly differently and we annotate it in each citation as a property of each instantiation of a lemma in context.
+
+We use a fourfold typology for semantic prosody: <code>positive</code>, <code>negative</code>, <code>neutral</code> and <code>neutral-nagative</code>. We annotate a lemma as having negative semantic prosody when the concept expressed by the lemma is clearly depicted as negative , e.g. the lemma vikalpa in the phrase <i>vikalpasaṃsārāvahāka</i> (vikalpa is the source of saṃsāra).
+
+Conversely, we annotate semantic prosody as positive if the concept expressed by a lemma is described as positive, or leading to something good etc. In cases where the lemma is negated (e.g. na vikalpayati) or is modified by an adjective with a negative connotation which suggests that some aspects of the concept expressed by the lemma are negative ( but not the concept tout-court, e.g. <i>akuśala-vikalpa</i>), we annotate the semantic prosody as being neutral-negative.
+
+Given the rarity of positive semantic prosody in the vocabulary explored in the Visual Dictionary and Thesaurus of Buddhist Sanskrit we categorize all positive occurrences as pos, even when they would better lend themselves to neu.pos, for analogy with neu.neg above.
+:::
+
+### semantic prosody examples
+
+#### positive {#sec-examplesemprospos}
+
+**pratibhāna-pratisaṃvidā yathā-*prajñapty*-a-vikopanatay\^ā-paryantatayā dharmaṃ deśayati //** \[daśabhūmikasūtra, 51\]\
+"By the analytical knowledge of eloquence he teaches doctrine with unshaken infinitude as his ideation." \[Honda 245-6\]
+
+#### negative {#sec-examplesemprosneg}
+
+**yath\^oktam ātmā ātm\^eti bhikṣavo bālo 'śrutavān pṛthagjanaḥ *prajñaptim* anupatito na tv atr\^ātmā vā ātmīyaṃ vā iti /**\[abhidharmakośabhāṣya, 140\]\
+"It is said in fact, 'The fool, the ignorant, the Pṛthagjana, conforming to the manners of vulgar speech, thinks "me," or "mine;" but there is not any "me" or "mine."'" \[Pruden 419\]
+
+#### neu {#sec-examplesemprosneu}
+
+**kiṃ kāraṇaṃ pratyutpanne adhvani śrāvaka-pratyekabuddha-bodhisattvānāṃ *prajñaptiḥ* prajñapyate ?** \[saddharmapuṇḍarīka, 91\]\
+"...for what reason then is the designation of disciples (Srāvakas), Buddhas, and Bodhisattvas kept up in the present times?" \[Kern 129\]
+
+#### neu.neg {#sec-examplesemprosneuneg}
+
+**sarva-*prajñapti*-samatikrāntaṃ lokottaram ity ucyate /**\[suvikrāntavikrāmiparipṛcchā, 4\]\
+"...one speaks of the 'supramundane' as of that which has completely transcended all verbal concepts."\[Conze 5\] "prajñapti68suvikrāntavikrāmiparipṛcchā"
+
+## <font color='indianred'>examples</font>
+
+### nominal existence {#sec-examplesnominalexistence}
+
+**dravya-*prajñapti*-sat-sattva-vikalpau grāhakau matau / pṛthagjan\^-ārya-bhedena pratyekaṃ tau nav\^-ātmakau // 5.6 //** \[abhisamayālaṃkāra, 5.5\]\
+"(The Sutra then) considers the two (false) discriminations of the subject. The one regards beings (or persons) as (real) substantial entities, the second as (merely) nominal entities. The first refers to the common people, the second to the saints. Each one consists of nine items." \[Conze 81\]
+
+**kiṃ c\^edaṃ dravyata iti kiṃ vā *prajñaptitaḥ* / rūp\^ādivat bhāv\^āntaraṃ cet dravyataḥ / kṣīr\^ādivat samudāyaś cet prajñaptitaḥ /** \[abhidharmakośabhāṣya, 461\]\
+"Does the pudgala exists as a real entity or as a nominal construct? If a person is a distinct entity like visible form and other such things, he is substantially real; but if \[by analysis\] he is \[shown to be\] a collection \[of substances\], like milk and other such things, he is real by way of a conception." \[Duerlinger 73\]
+
+### designation {#sec-examplesdesignation}
+
+**teṣāṃ dāni kumārāṇāṃ śakyaṃ śākiyā ti samākhyā-samājñā-*prajñapti*udapāsi //** \[mahāvastu, 1.351\]\
+"'Cunning, sirs, are these princes.' And from the 'cunning' of these princes arose their name, appellation and designation of Śākiyans." \[Jones 297\]
+
+**\[...\] na ca saṃsthānaṃ paramāṇau vidyate dīrgh\^ādi / tasmād bahuṣv eva tathā saṃniviṣṭeṣu dīrgh\^ādi-*prajñaptiḥ* / atha mataṃ saṃsthāna-paramāṇava eva tathā saṃniviṣṭā dīrgh\^ādi-saṃjñāṃ labhanta iti /**\[abhidharmakośabhāṣya, 195\]\
+"There is no atom of length. \[...\] Therefore what we designate as long is a number of real things,---atoms of color,---arranged in a certain manner." \[Pruden 557-8\]
+
+**idaṃ ca nāma saṃjñā prajñaptiś cakṣur iti / etac ca vastu-mātram / yatr\^edaṃ nāma saṃjñā *prajñaptiḥ* / n\^āta uttari n\^āto bhūyaḥ /**\[bodhisattvabhūmi, 273\]\
+"\[One is,\] 'This is the name, the appellation, and the designation "eye,"' and \[the other is,\] 'That is the bare substance in relation to which this name, appellation, and designation \[occur\].' There is nothing beyond that and nothing more than that." \[Engle 643\]
+
+**yadā ca te kulaputra tasmin sva-nāmni āgantuka-saṃjñā utpannā bhavati pratilabdhā sa tvaṃ yā te cakṣuṣi cakṣur-nāma cakṣuḥ-saṃjñā cakṣuḥ-*prajñaptis* tām apy adhyātmaṃ yoniśo manasi-kuru /** \[bodhisattvabhūmi, 273\]\
+"O child of good family, when this conception of being adventitious has arisen in you and been understood \[by you\] in relation to your name, then also direct your attention inwardly in a proper manner to the name 'eye,' the appellation 'eye,' and the designation 'eye' \[that occur\] in relation to your eye." \[Engle 643\]
+
+### verbal expression notion {#sec-examplesverbalexpression}
+
+**\[...\] na ca saṃsthānaṃ paramāṇau vidyate dīrgh\^ādi / tasmād bahuṣv eva tathā saṃniviṣṭeṣu dīrgh\^ādi-*prajñaptiḥ* / atha mataṃ saṃsthāna-paramāṇava eva tathā saṃniviṣṭā dīrgh\^ādi-saṃjñāṃ labhanta iti /**\[abhidharmakośabhāṣya, 195\]\
+"There is no atom of length. \[...\] Therefore what we designate as long is a number of real things, atoms of color, arranged in a certain manner." \[Pruden 557-8\]
+
+**yadā na bhavati saṃjñā samajñā *prajñaptir* vyavahāraḥ / tadā prajñāpāramit\^ety ucyate //** \[aṣṭasāhasrikā, 89\]\
+"Where there is no perception, appellation, conception or conventional expression, there one speaks of 'perfection of wisdom.'" \[Conze 138\]
+
+**jīvit\^endriyaṃ katamat / nikāya-sabhāge pūrva-karm\^-āviddhe sthiti-kāla-niyame āyur iti *prajñaptiḥ* //** \[abhidharmasamuccaya, 18\]\
+"What is the life faculty? Life span designates a period of fixed duration affected by former actions in the similarity of types?" \[Boin-Webb 19\]
+
+**sarva-*prajñapti*-samatikrāntaṃ lokottaram ity ucyate /**\[suvikrāntavikrāmiparipṛcchā, 4\]\
+"...one speaks of the 'supramundane' as of that which has completely transcended all verbal concepts."\[Conze 5\]
+
+**yath\^oktam ātmā ātm\^eti bhikṣavo bālo 'śrutavān pṛthagjanaḥ *prajñaptim* anupatito na tv atr\^ātmā vā ātmīyaṃ vā iti /** \[abhidharmakośabhāṣya, 140\]\
+"It is said in fact, 'The fool, the ignorant, the Pṛthagjana, conforming to the manners of vulgar speech, thinks "me," or "mine;" but there is not any "me" or "mine."'" \[Pruden 419\]
+
+### appointing
+
+\*\*bahir nagarasya pañca vihāra-śatāni kāritāni pañca mañca-pīṭha-vṛṣi-koccaka-bimbopadhāna-caturasraka-śatāni dāpitāni pañca piṇḍapāta-śatāni prajñaptāni vistīrṇ\^-āvakāśe ca pṛthivī-pradeśe āsana-*prajñaptiḥ* \*kāritā /\*\*\[divyāvadāna_selection, 468.017\]\
+"He also commissioned five hundred monastic dwellings outside of the city; gave out five hundred chairs, seats, cushions, woolen blankets, pillows, and shawls; distributed five hundred meals; and had a seat specially prepared for the venerable Mahākātyāyana in a wide-open tract of land." \[Rotman\]
+
+### title of Treatise
+
+***prajñaptau*** **tu pratisaṃvidām eva nirdeśaḥ /** \[abhidharmakośabhāṣya, 419\]\
+"According to the Prajñaptipāda, the Unhindered Knowledges are in the following order: \[...\]." \[Pruden 1154\]
+
+### formulation/exposition
+
+**kathaṃ tāvad eṣām upāsaka-saṃvar\^ādīnām aṅga-pratiniyamo bhavati / śāstṛ-*prajñapti*-vaśāt /** \[abhidharmakośabhāṣya, 216\]\
+"Answer: How can we know the extent, the number of the rules of the disciplines of the Upasaka, the Sramanera, or the Bhiksu? Evidently through the teaching of the Master." \[Pruden 600\]
+
+**a-karkaśā śikṣā-*prajñapt*i-sukh\^opāyatvāt /** \[mahāyānasūtrālaṃkāra, 80\]\
+"It is 'without harshness' because it has the art of pleasantly announcing the precepts." \[Thurman 157\]
+
+**... iti svayan na upasampādayet niḥsargika-pācattikaṃ / yāvat *prajñaptiḥ*/** \[bhikṣuṇīvinaya, 179\]\
+"C'est une faute entraînant abandon \[de l'objet en cause\] et aveu formel -etc ... promulgation." \[Nolot 178\]
+
+**mayā bālena mūḍhena yat kiṃcit pāpam ācitaṃ / prakṛtyā yac ca sāvadyaṃ *prajñapty*\^āvadyam eva ca //** \[bodhicaryāvatāra, 2.63\]\
+"Le péché que ma sottise et mon égarement ont accumulé, péché contre la loi naturelle, péché contre les lois de la Confrérie, \[...\]." \[La Vallée Poussin 452,31-33\]
