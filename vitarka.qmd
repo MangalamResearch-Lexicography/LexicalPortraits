@@ -18,7 +18,6 @@ The unfocussed nature of vitarka is at the root of its terminological uses as th
 
 ## <font color='indianred'>frequency</font>
 
-
 Vitarka is a <code> mid-frequency word</code> in our corpus; both relative to all words in the corpus and relative specifically to words expressing the concept of thinking (note the position of vitarka on the word-frequency curve in the frequency graph ).
 
 It is <code>fairly uniformly distributed over all the diachronic layers</code> considered in this dictionary. Indeed vitarka is more evenly distributed across both periods and genres than most words in our corpus (see dispersion graphs on the right, or in the dispersion tabs below; the fact that vitarka falls below the horizontal like indicates it is more evenly dispersed than the average word in our corpus).
@@ -153,11 +152,11 @@ The number that shows when hovering over the words is the proportion of texts in
 
 Vitarka tends to acquire a rather negative semantic prosody, especially in non-specialised contexts. It is depicted as an unwanted distraction harassing meditators and it is often modified by adjectives such as akuśala or asat. Still, within the sampled attestations used for our dictionary, only a minority of instances of vitarka have an overtly negative connotation, with vitarka itself being portrayed as 'bad'.
 
-In most cases vitarka appears to have a neuter connotation; the negative nuance, when present, mostly comes from the surrounding words. For example, when vitarka is described a akuśala in a passage this does not imply that vitarka is always akuśala, kuśala vitarka may be possible in different contexts (e.g. <i>Vigrahavyāvartanī</i>, 232).^[<i>iha dharm\^āvasthā-vido manyante kuśalānāṃ dharmāṇām ekonaviṃśaṃ-śatam / \[...\] vitarkānāṃ prīteḥ pramādasya a-prasrabdheḥ /</i> (Vigrahavyāvartanī, 232) "In this context, people who know the state of things have the 119 auspicious things in mind. Thus the following are auspicious in one of their aspects: \[...\] (46) utter torment, (47) dissatisfaction, (48) deliberation, (49) pleasure, (50) clarity, \[...\]." (Westerhoff, 22) ]
+In most cases vitarka appears to have a neuter connotation; the negative nuance, when present, mostly comes from the surrounding words. For example, when vitarka is described a akuśala in a passage this does not imply that vitarka is always akuśala, kuśala vitarka may be possible in different contexts (e.g. <i>Vigrahavyāvartanī</i>, 232).[^vitarka-1]
+
+[^vitarka-1]: <i>iha dharm\^āvasthā-vido manyante kuśalānāṃ dharmāṇām ekonaviṃśaṃ-śatam / \[...\] vitarkānāṃ prīteḥ pramādasya a-prasrabdheḥ /</i> (Vigrahavyāvartanī, 232) "In this context, people who know the state of things have the 119 auspicious things in mind. Thus the following are auspicious in one of their aspects: \[...\] (46) utter torment, (47) dissatisfaction, (48) deliberation, (49) pleasure, (50) clarity, \[...\]." (Westerhoff, 22)
 
 [***vitark**\^ātiśayas tasya hṛdi saṃpravijṛmbhitaḥ / āviś-cakre prasādaś ca prabhāvaś ca divaukasām //* \[Āryaśūra_jātakamālā, 6.17\] "Now, when that sublime reflection had presented itself to the Great Being's mind, the Celestials manifested their propitiousness and their power." \[Speyer 57\]]{.aside}
-
-
 
 Indeed in a small minority of our sampled sentences, vitarka displays a distinctly positive nuance, but this seems to be a departure from the general trend in our corpus, which points to a <code>neuter connotation</code> of the word vitarka itself and to <code>rather negative semantic prosody</code> due to its frequent appearence in negative contexts.
 
@@ -219,7 +218,7 @@ Given the rarity of positive semantic prosody in the vocabulary explored in the 
 
 #### positive
 
-***vitark*\^ātiśayas tasya hṛdi saṃpravijṛmbhitaḥ / āviś-cakre prasādaś ca prabhāvaś ca divaukasām //** \[Āryaśūra_jātakamālā, 6.17\] "Now, when that sublime reflection had presented itself to the Great Being's mind, the Celestials manifested their propitiousness and their power." \[Speyer 57\]
+***vitark*****\^ātiśayas tasya hṛdi saṃpravijṛmbhitaḥ / āviś-cakre prasādaś ca prabhāvaś ca divaukasām //** \[Āryaśūra_jātakamālā, 6.17\] "Now, when that sublime reflection had presented itself to the Great Being's mind, the Celestials manifested their propitiousness and their power." \[Speyer 57\]
 
 **satyeṣu duḥkh\^ādiṣu dṛṣṭir āryā samyag-*vitarkaś* ca parākramaś ca / idaṃ trayaṃ jñāna-vidhau pravṛttaṃ prajñ\^āśrayaṃ kleśa-parikṣayāya //** \[saundarananda, 16.31\] "The noble doctrine with respect to the Truths regarding suffering etc., right thought and exertion, these three, resting on intuitive wisdom, should be practised in the department of knowledge for the abolition of the vices." \[Johnston 92\]
 
@@ -233,6 +232,6 @@ Given the rarity of positive semantic prosody in the vocabulary explored in the 
 
 **subhūtir āha / strī-pratisaṃyuktā eva bhagavaṃs tasya puruṣasya *vitarkāḥ* pravarteran /** \[aṣṭasāhasrikā, 171\] "Subhuti: With the woman, of course. He thinks about her coming, \[...\]." \[Conze 209-210\]
 
-***vitarkaḥ* katamaḥ / paryeṣako mano-jalpaś cetanā-prajñā-viśeṣaḥ / yā cittasy\^audārikatā /** \[pañcaskandhaka, 13\] "What is initial mental application? A discourse of inquiry by manas, a certain kind of volition and discernment, which can be characterized as an indistinct state of citta." \[Anacker 70\]
+***vitarkaḥ*** **katamaḥ / paryeṣako mano-jalpaś cetanā-prajñā-viśeṣaḥ / yā cittasy\^audārikatā /** \[pañcaskandhaka, 13\] "What is initial mental application? A discourse of inquiry by manas, a certain kind of volition and discernment, which can be characterized as an indistinct state of citta." \[Anacker 70\]
 
 **khinnasya suptasya ca nirvṛtasya bādhaṃ yathā saṃjanayanti śabdāḥ / adhyātmam aikāgryam upāgatasya bhavanti bādhāya tathā *vitarkāḥ* //** \[saundarananda, 17.46\] "As noises harass a man who is tired and soundly asleep, so thoughts harass the man who has attained internal concentration." \[Johnston 106\]
