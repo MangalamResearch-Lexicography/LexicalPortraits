@@ -1,0 +1,29 @@
+---
+title: "bibliography"
+---
+
+## bibliography
+
+For a <code>bibliography of the Sanskrit texts</code> we draw on please refer to the metadata included in <b>our corpus</b> on <a href='https://bit.ly/BuddhistSanskritCorpus'>Zenodo</a>. Details of the <code>translations</code> we quote from are available on <a href='https://www.zotero.org/groups/240567/buddhist_translators_workbench/library'>Zotero</a>
+
+
+Like the Visual Dictionary and Thesaurus of Buddhist Sanskrit, the Lexical portrait are built using the popular R framework for web applications, Shiny. They also make use of a number of <code>R packages</code>, including:
+
+Allaire, J. J. 2022. quarto: R Interface to 'Quarto' Markdown Publishing System, version 1.1. https://CRAN.R-project.org/package=quarto
+
+Chang, W. (2018). <i>shinythemes: Themes for Shiny</i>, version 1.1.2. https://CRAN.R-project.org/package=shinythemes
+
+Chang, W. and Borges Ribeiro B. (2018). <i>shinydashboard: Create Dashboards with 'Shiny'</i>, version 0.7.1. https://CRAN.R-project.org/package=shinydashboard
+
+Chang, W., Cheng J., Allaire, J.J., Xie, Y., McPherson, J. 2019. <i>Shiny: Web Application Framework for R</i>, version 1.4.0. https://CRAN.R-project.org/package=shiny.
+
+Dowle M. and Srinivasan A. (2020). <i>data.table: Extension of data.frame</i>, version 1.13.2. https://CRAN.R-project.org/package=data.table
+
+Khan, A. 2018. <i>collapsibleTree: Interactive Collapsible Tree Diagrams using D3.js</i>, version 0.1.7. https://CRAN.R-project.org/package=collapsibleTree
+
+Lang D. and Chien G. (2018). <i>wordcloud2: Create Word Cloud by 'htmlwidget'</i>,version 0.2.1, https://CRAN.R-project.org/package=wordcloud2
+
+Sievert, c. (2018). <i>plotly for R</i>, https://plotly-r.com
+
+Xie, Y., Cheng J. and Tan X. (2021). <i>DT: A Wrapper of the JavaScript Library 'DataTables'</i>. version 0.17. https://CRAN.R-project.org/package=DT
+

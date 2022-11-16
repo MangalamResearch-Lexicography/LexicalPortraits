@@ -45,7 +45,7 @@ It is rare in narrative literature, where according to our sampled sentences it 
 ## freq graph {#sec-freqcurve}
 
 ::: column-margin
-Frequency and dispersion</code> are calculated over a version of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+Frequency and dispersion</code> are calculated over version 1.9 of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
 
 Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
 :::
@@ -55,7 +55,7 @@ Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 
 ## genre dispersion {#sec-genredp1}
 
 ::: column-margin
-Frequency and dispersion</code> are calculated over a version of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+Frequency and dispersion</code> are calculated over version 1.9 of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
 
 Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
 :::
@@ -65,7 +65,7 @@ Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 
 ## period disp. {#sec-perioddp1}
 
 ::: column-margin
-Frequency and dispersion</code> are calculated over a version of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+Frequency and dispersion</code> are calculated over version 1.9 of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
 
 Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
 :::
@@ -75,7 +75,7 @@ Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 
 ## freq by period {#sec-periodBars}
 
 ::: column-margin
-Frequency and dispersion</code> are calculated over a version of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
+Frequency and dispersion</code> are calculated over version 1.9 of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822).
 
 Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 2008. Dispersion and adjusted frequencies in corpora. <i>International Journal of Corpus Linguistics</i>, 13(4): 403-437)
 :::
@@ -84,7 +84,7 @@ Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 
 
 ## info {#sec-disperioninfo}
 
-<code>frequency and dispersion</code> are calculated over a version of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822), as opposed to the smaller corpus used for the Visual Dictionary and Thesaurus of Buddhist Sanskrit (see <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation for details).
+<code>frequency and dispersion</code> are calculated over version 1.9 of the \~7-million words <a href='https://bit.ly/BuddhistSanskritCorpus' target='_blank'>Segmented Corpus of Buddhist Sanskrit</a> (10.5281/zenodo.3457822), as opposed to the smaller corpus used for the Visual Dictionary and Thesaurus of Buddhist Sanskrit (see <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation for details).
 
 For the sake of readability, only words occurring at least 5 times in the corpus have been plotted on the frequency and dispersion curves.
 
@@ -95,11 +95,13 @@ the <code>sense by genre</code> plot is based on a sample of sentences that we h
 
 ## <font color='indianred'>register</font> {#sec-register}
 
-Based on our sampled sentences, the distribution of vyavahāra's senses across text types suggests that the meaning <code>mundane affairs</code> might have been closer to <code>general language use</code>, whereas that<code>language usage</code>, being mostly instantiated in philosophical literature, might have belonged to a <code>more scholastic register</code>. Still, despite the high frequency of vyavahāra in pramāṇa literature, this word does <code>*not* seem to have undergone a process of technical specialization</code>, at least not along the semantic lines drawn here. In fact, vyavahāra appears especially ambiguous in epistemological literature, where it is not always clear (at least not to reader less then well-versed in the pramāṇa discourse) whether vyavahāra refers to a verbal assertion regarding something (e.g. asserting that something is absent), to the ordinary experience of that thing (experiencing that something is absent) or to the common practice generally adopted towards it (treating it as absent). It may well be possible that these semantic distinctions are but an artefact of translation, and the Sanskrit word was fundamentally ambiguous.
+Based on our sampled sentences, the distribution of vyavahāra's senses across text types suggests that the meaning <code>mundane affairs</code> might have been closer to <code>general language use</code>, whereas that<code>language usage</code>, being mostly instantiated in philosophical literature, might have belonged to a <code>more scholastic register</code>. Still, despite the high frequency of vyavahāra in pramāṇa literature, this word does <code>*not* seem to have undergone a process of technical specialization</code>, at least not along the semantic lines drawn here. In fact, vyavahāra appears especially ambiguous in epistemological literature, where it is not always clear (at least not to reader less then well-versed in the pramāṇa discourse) whether vyavahāra refers to a verbal assertion regarding something (e.g. asserting that something is absent), to the ordinary experience of that thing (experiencing that something is absent) or to the common practice generally adopted towards it (treating it as absent).[^vyavahara-7] It may well be possible that these semantic distinctions are but an artefact of translation, and the Sanskrit word was fundamentally ambiguous.
 
-> A passage from the *Tarkābhāṣā* is interesting in this regard. A parallel construction between vyavahāra √kṛ, which indicates a behaviour, and vyavahāra √sādh, which suggest a proposition, and the explication of trividho vyavahāra as including both kayika and vācika vyavahāra suggest either an intentional pun or that vyavahāra was perceived as intrinsically vague and able to express different semantic nuances within a single passage without compromising its coherence: *abhāva**vyavahāras** tu mūḍhaṃ prati **anupalambhena sādhyate** / tathā hikaścinmūḍho rajaḥprabhṛtiṣu sāṅkhyaprasiddheṣu guṇeṣvanupalambhena pravartitābhāvavyavahāro 'pi punaḥ sarvaṃ sarvatrāstīti svasiddhāntābhyāsāt kvā 'pi pradeśādau ghaṭānupalambhe satyapi nābhāvavyavahāraṃ karotīty **anupalambhena** trividho **vyavahāraḥ kāryate** /tatra niḥśaṅkarāmanāgamanalakṣaṇaḥ **kāyiko vyavahāraḥ** / ghaṭo **nāstīti vācikaḥ** / īdṛśa eva **antarjalpākāro mānasikaś** ceti /* (Tarkabhāṣā, 30)[^vyavahara-7]
+[^vyavahara-7]: *anupalambhasya tu a-sad-vyavahāra-yogyatvena saha vyāptiḥ pratyakṣeṇ \^ aiva /* \[tarkabhāṣā 47\] ("The vyāpti between 'non-perception' and 'to be called non-existent' is grasped by the perception \[of things other than the denied object\]." \[Kajiyama 113\]) *sarva evaṃvidho anupalabdho a-sad-**vyavahāra**-viṣaya iti /* \[vādanyāya\] ("Every thing which is of this kind (i.e. which fulfils the condition of apprehensibility) and is not apprehended is the object of the practice of 'non-existence.'" \[Gokhale 25-26\]) ; *yaḥ sad-vyavahāra-viṣaya upalabdhi-lakṣaṇa-prāptaḥ sa upalabhyata eva /* \[nyāyabiṇḍu\] ("Whatsoever is present (as an object of our purposive actions) and is in conditions of perceptibility, is necesarily perceived." \[Stcherbatsky 151\]).
 
-[^vyavahara-7]: But \[the logical mark of\] non-cognition is aimed at establishing practical activities concerning absence (abhāvavyavahāra) \[in order to convince\] a stupefied person \[of the absence of a certain thing\]. For example, it is well known in the Saṃkhya \[thought\] that the three primordial qualities beginning with rajas are \[permanently\] existent; a certain follower \[of the school\] actually makes ordinary activities concerning absent things owing to their non-cognition; he, however, is so much inculcated in the doctrine of his own school proclaiming the existence of every thing at every place that he confusedly does not now judge the absence \[of ajar\] in one particular place or another even though the jar is not actually perceived. To this man three kinds of convincing activities (vyavahāra) are to be demonstrated by means of non-cognition: the physical activity consists in moving about the place without hesitation; the verbal activity consists in \[the statement\] that there is no jar; the mental activity is the internal thought (antarjalpa) of the same judgment.(Kajiyama, 78-79)
+> A passage from the *Tarkābhāṣā* is interesting in this regard. A parallel construction between vyavahāra √kṛ, which indicates a behaviour, and vyavahāra √sādh, which suggest a proposition, and the explication of trividho vyavahāra as including both kayika and vācika vyavahāra suggest either an intentional pun or that vyavahāra was perceived as intrinsically vague and able to express different semantic nuances within a single passage without compromising its coherence: *abhāva**vyavahāras** tu mūḍhaṃ prati **anupalambhena sādhyate** / tathā hikaścinmūḍho rajaḥprabhṛtiṣu sāṅkhyaprasiddheṣu guṇeṣvanupalambhena pravartitābhāvavyavahāro 'pi punaḥ sarvaṃ sarvatrāstīti svasiddhāntābhyāsāt kvā 'pi pradeśādau ghaṭānupalambhe satyapi nābhāvavyavahāraṃ karotīty **anupalambhena** trividho **vyavahāraḥ kāryate** /tatra niḥśaṅkarāmanāgamanalakṣaṇaḥ **kāyiko vyavahāraḥ** / ghaṭo **nāstīti vācikaḥ** / īdṛśa eva **antarjalpākāro mānasikaś** ceti /* (Tarkabhāṣā, 30)[^vyavahara-8]
+
+[^vyavahara-8]: But \[the logical mark of\] non-cognition is aimed at establishing practical activities concerning absence (abhāvavyavahāra) \[in order to convince\] a stupefied person \[of the absence of a certain thing\]. For example, it is well known in the Saṃkhya \[thought\] that the three primordial qualities beginning with rajas are \[permanently\] existent; a certain follower \[of the school\] actually makes ordinary activities concerning absent things owing to their non-cognition; he, however, is so much inculcated in the doctrine of his own school proclaiming the existence of every thing at every place that he confusedly does not now judge the absence \[of ajar\] in one particular place or another even though the jar is not actually perceived. To this man three kinds of convincing activities (vyavahāra) are to be demonstrated by means of non-cognition: the physical activity consists in moving about the place without hesitation; the verbal activity consists in \[the statement\] that there is no jar; the mental activity is the internal thought (antarjalpa) of the same judgment.(Kajiyama, 78-79)
 
 ::: panel-tabset
 ## Frequency by tradition {#sec-traditionBars}
@@ -121,30 +123,31 @@ The <b>height of the bars</b> in the charts indicates the <b>normalized</b> freq
 
 ## <font color='indianred'>context</font> {#sec-context}
 
-The word vyavahāra occurs in three main contexts: the context of trade and affairs, the Mahāyana discourse on language and the two truths and in the context of pramāṇa, especially in the discussion of anupalabdhi. Statistically, the first is too infrequent and lexically varied to yield any keywords, while the others are represented by the keywords diplayed in the wordcloud below. Notably, statistical analysis of the immediate context of vyavahāra in our corpus leads to a neat distinction between pramāṇa contexts and all the rest (see dendogram tab below), suggesting that vyavhāra is woven in markedly different lexical pattern in the epistemological literature compared to the rest of the corpus.
+The word vyavahāra occurs in three main contexts: the context of trade and affairs, the Mahāyana discourse on language and the two truths and in the context of pramāṇa, especially in the discussion of anupalabdhi. Statistically, the first is too infrequent and lexically varied to yield any keywords, while the others are represented by the keywords displayed in the wordcloud below. Notably, statistical analysis of the immediate context of vyavahāra in our corpus leads to a neat distinction between pramāṇa contexts and all the rest (see dendogram tab below), suggesting that vyavhāra is woven in markedly different lexical pattern in the epistemological literature compared to the rest of the corpus.
 
 ::: panel-tabset
+
+
 ## keywords
 
 ::: column-margin
 The size of words in the <b>wordcloud is proportional to the Log Ratio</b>. (for information on this statistics see <a href='http://cass.lancs.ac.uk/log-ratio-an-informal-introduction/' target='_blank'>Hardie 2014</a> )
 :::
 
-<iframe width="700" height="315" src="www/cotextWordcloud_vyavahAra.html">
 
-</iframe>
+![vyavahāra's keywords](www/cotextWordcloud_vyavahAra.webp){#fig-keywords}
 
 ## dendogram {#sec-dendogram}
 
 ::: column-margin
-The <b>dendogram</b> is based on the cosine similarity of each keyword within the immediate context of vyavahāra (5 words window to the left and right). 
+The <b>dendogram</b> is based on the cosine similarity of each keyword within the immediate context of vyavahāra (5 words window to the left and right).
 :::
 
 ![dendogram](www/keywordDendogram_vyavahAra.webp){#fig-dendogram}
 
 ## info
 
-the <b>wordcloud</b> displays words that are statitistically over-represented in the immediate context of the lemma (defined as the words that occur in the same sentence as the lemma), compared to their overall frequency in the rest of the \~7-million words Segmented Corpus of Buddhist Sanskrit.
+the <b>wordcloud</b> displays words that are statitistically over-represented in the immediate context of the lemma (defined as the words that occur in the same sentence as the lemma), compared to their overall frequency in the rest of the \~7-million words Segmented Corpus of Buddhist Sanskrit (version 1.9 has been used for this entry).
 
 The statistics used for keyness are Log Likelyhood over 10 and Log Ratio over 2.5. For the sake of readability, only keywords that occur at least 20 times in the lemma's citations are included in the wordcloud and table.
 
@@ -152,11 +155,111 @@ The size of words in the <b>wordcloud is proportional to the Log Ratio</b>. (for
 
 <code>the number that shows when hovering over the words is the Log Ratio</code>
 
-Words in red point to the sense 'language usage'; those in blue to the sense 'common practice/ordinary experience' and word in grey are characteristic of the pramāṇa context, with the darker ones being the most salient in the context of vyavahāra.
+Words in red point to the sense 'language usage'; those in blue to the sense 'common practice/ordinary experience' and words in grey are characteristic of the pramāṇa context, with the darker ones being the most salient in the context of vyavahāra.
 
 The <b>dendogram</b> is based on the <code>cosine similarity of each keyword within the immediate context of vyavahāra</code> (5 words window to the left and right). The distance is calculated using the canberra method as implemented in R 4.0.5. For hierarchical clustering we used the ward.D2 method.
 :::
 
 ## <font color='indianred'>connotation</font> {#sec-connotation}
 
-Vyavahāra has a <code>neutral connotation</code>, as befits the generic character of its core sense of 'common practice'. It retains a mostly neutral connotation even in the sense of verbal practice, contrary to most o words related to the Mahāyāna discourse on language, which typically acquire a negative semantic prosody in sūtras. This is because vyavahāra is seen mostly as a necessary, if imperfect, bridge towards paramārtha, rather than as a source of delusion. The sense of mundane affairs occurs in a positive prosody in narrative literature, but, predictably, assumes a negative tinge in pratimokṣa contexts, where dealing with money is forbidden.
+Vyavahāra has a <code>neutral connotation</code>, as befits the generic character of its core sense of 'common practice'. It retains a mostly neutral connotation even in the sense of verbal practice, contrary to most o words related to the Mahāyāna discourse on language, which tend to acquire a negative semantic prosody in sūtras. This is because vyavahāra is seen mostly as a necessary, if imperfect, bridge towards <i>paramārtha</i>, rather than as a source of delusion. The sense of mundane affairs occurs in a positive prosody in narrative literature, but, predictably, assumes a negative tinge in pratimokṣa contexts, where dealing with money is forbidden.
+
+::: panel-tabset
+## semantic prosody proportion
+
+::: column-margin
+The barcharts are based on manually annotated data. Please refer to the documentation of A Visual Dictionary and Thesaurus of Buddhist Sanskrit for information on the corpus and sampling frame used.
+:::
+
+<iframe width="700" height="315" src="www/SemProsFill_vyavahAra.html">
+
+</iframe>
+
+## absolute freq
+
+<iframe width="700" height="315" src="www/SemProsDodge_vyavahAra.html">
+
+</iframe>
+
+## info
+
+The barcharts are based on manually annotated data.
+
+Please refer to the documentation of A Visual Dictionary and Thesaurus of Buddhist Sanskrit for information on the corpus and sampling frame used.
+
+<b>semantic prosody (sem.pros) here refers to whether a lemma acquires a positive or negative overtone in context.</b> Generally the semantic prosody associated to a word emerges from a repeated pattern of use. For example we can say that 'set in' has a negative connotation in English because it is systematically associated with words that possess a negative connotation (Louw 1993). For a pattern to emerge, we need to consider many individual instances. To this end in this project we treat semantic prosody slightly differently and we annotate it in each citation as a property of each instantiation of a lemma in context.
+
+We use a fourfold typology for semantic prosody: <code>positive</code>, <code>negative</code>, <code>neutral</code> and <code>neutral-nagative</code>. We annotate a lemma as having negative semantic prosody when the concept expressed by the lemma is clearly depicted as negative , e.g. the lemma vikalpa in the phrase <i>vikalpasaṃsārāvahāka</i> (vikalpa is the source of saṃsāra).
+
+Conversely, we annotate semantic prosody as positive if the concept expressed by a lemma is described as positive, or leading to something good etc. In cases where the lemma is negated (e.g. na vikalpayati) or is modified by an adjective with a negative connotation which suggests that some aspects of the concept expressed by the lemma are negative ( but not the concept tout-court, e.g. <i>akuśala-vikalpa</i>), we annotate the semantic prosody as being neutral-negative.
+
+Given the rarity of positive semantic prosody in the vocabulary explored in the Visual Dictionary and Thesaurus of Buddhist Sanskrit we categorize all positive occurrences as pos, even when they would better lend themselves to neu.pos, for analogy with neu.neg above.
+
+
+## examples
+
+#### negative
+
+*a-satsu sarva-dharmeṣu prajñaptiḥ kriyate mayā / abhilāpo <b>vyavahār</b>aś ca bālānāṃ tattva-varjitaḥ //*  laṅkāvatārasūtra ,  135 \"I establish thought-constructions where all things are non-existent; whatever expressions and experiences that belong to the ignorant are not of the truth as it is.\" [Suzuki 259]
+
+*a-dṛṣṭe dṛṣṭa-vāditā a-śrute 'mate 'vijñāte vijñāta-vāditā dṛṣṭe 'dṛṣṭa-vāditā yāvad vijñāte 'vijñāta-vāditā it^īme 'n-āryā aṣṭau <b>vyavahār</b>āḥ /*  abhidharmakośabhāṣya,  245 \"[...] 'vocal actions', eight of which are bad: to say that one has seen what one has not seen, to say that one has heard, cognized, or known what one has not heard, cognized, or known; to say that one has not seen when one has seen; and to say that one has not heard, cognized, or known when one has heard, cognized, or known; […].\" [Pruden 653]
+
+
+*so a-paryavasita-kukārya-paryākulam upaśama-virodhi-prakṛṣṭ^-opāyāsam arth^-opārjana-pradhāna-kāma-rati-<b>vyavahār</b>^-āsāra-karma-dharma-bhūyiṣṭham a-vinaya-kalaha-vaira-vigrah^-āyatanam īrṣyā-mātsarya-caury^-ādi-niketa-bhūtaṃ śoka-parideva-duḥkha-daurmanasy^-opāyāsa-bahulaṃ māyā-śāṭhya-mada-māna-gahanaṃ sāha-sāvalep^-ādhiṣṭhitam an-ārya-vyavahār^-ānupravṛtti-jihma-sattva-bhāvaṃ pramāda-pada-sthānam an-eka-rūpa-paribhav^-opasṛṣṭaṃ saṃnihita-dainyam an-abhibhūta-viṣādaṃ pratyāsanna-vighāta-bhaya-daurgatyam a-viṣahy^-opadrava-samudraṃ kaṇṭaka-garbhād abhra-śvabhra-pratibhay^-ākaram apāsya gārhasthyam anyatamam a-śrama-padam abhyalaṃcakāra /*  jātakamālā_gopadatta,  11.3 \"Renouncing the state of a householder, (a state) that is full of unending evil deeds, that has strong mental disturbances, hostile to calmness, abundant in worthless activities and duties relating to the enjoyment of pleasures, the acquisition of wealth being the foremost, (a state) which is a repository of indiscipline, contention, hostility, and discord, an abode of jealousy, greed, robbery and the like, (a state) replete with sorrow, lamentation, misery, dejection, and irritation, (a state) which is crowded with deception, guile, arrogance and conceit, saturated with rashness and pride, characterized by a dishonest nature (resulting from) recourse to dishonourable behaviour, (a state) which is a foot-hold of indolence, afflicted with various kinds of humiliations, with wretchedness near at hand, with despondency not overcome, (a state) of distress (arising) from fear of imminent destruction, an ocean of unbearable misfortunes, a rich source of dangers of many hells filled with thorns, he (the Bodhisattva) lent splendour to a certain hermitage.\" [Handurukande 3]
+
+
+#### neuter-negative
+
+*yo puna bhikṣur an-ekavidhaṃ jātarūpa-rajata-vikṛti-<b>vyavahāraṃ</b> samāpadyeya nissargika-pācattikam //*  prātimokṣasūtram_of_the_lokottaravādimahāsāṃghika, lnp20 \"Whatever monk should undertake activity in various sorts of sales in gold or silver, that is a nihsargika-pacattika.\" [Prebish 70]
+
+
+*<b>vyavahāram</b> upādāya na punaḥ paramārthataḥ /*  jñānālokālaṃkāra,  58 \"This is based on conventional usage, but it is not in the ultimate sense.\" [Salvini/84000: Translating the Words of the Buddha 1.82]
+
+*kṛtrimaṃ nāma vācyāśca dharmāste kalpitā yataḥ / śabdārthayorna sambandhastena svābhāviko mataḥ // 48 // bāhya-ārtha-ābhiniveśas tu bhrāntyā bālasya jṛmbhate / tath ^ aiva <b>vyavahāro</b> ayaṃ tv atr ārtho asti kaścana // 49 //*  prajñāpāramitāpiṇḍārtha, 48 “Name is factitious and things, in so far as they are nameable, are imputed; therefore it is impossible to think that the relation between the objects and their name corresponds to something essential. The attachment to external things as if they were real is proper to the fools and is the consequence of an error; therefore this is a convention adopted in common life, but in reality there is nothing.\" [Tucci 64]
+
+#### neuter
+
+*dhātuḥ saṃketena <b>vyavahāra</b>-padaṃ gacchati /*  suvikrāntavikrāmiparipṛcchā,  8 \"…a world finds conventional expression by way of agreed symbols.\" [Conze 12]
+
+*athavā saṃvṛtiḥ saṃketo loka-<b>vyavahāra</b> ity arthaḥ /*  prasannapadā,  215 \"Again, the everyday means social convention, that is, the world of ordinary language and of transactions between individuals […].\" [Sprung 230]
+
+*sarvatra loka-<b>vyavahāra</b>-saṃghau citre gat^ eyaṃ paramāṃ gatiṃ ca // 43 //*  gaṇḍavyūhasūtra,  319 \"She has mastered all the different languages of the people on the continent and the variety of customary usages of society everywhere.\" [Cleary 1413]
+
+#### positive
+
+*ca sukhita-jana-manuṣyaṃ ca praśānta-daṇḍa-ḍamaraṃ su-nigṛhīta-taskaraṃ <b>vyavahāra</b>-sampannaṃ //*  mahāvastu,  1.272 \"His kingdom was prosperous, flourishing and peaceful, had plenty of food, and was well and thickly peopled with happy subjects. Violence and riot had ceased, robbers were held in check, and commerce thrived.\" [Jones vol. I 225]
+
+*<b>vyavahāraṃ</b> puraskṛtya prajñapty-arthaṃ śarīriṇām kṛpayā lokanāthais tvam ucyase ca na c ocyase //*  prajñāpāramitāstotra,  18 \"Saviours of the world, from pity, so that men might understand, speak of thee, observing custom, yet of thee they do not speak.\" [Conze (1954) 149]
+
+
+*tathā laukikīṣu <b>vyavahār</b>a-nītiṣu lok^ānugraha-kāriṣu paṭur bhavati /*  bodhisattvabhūmi,  175 \"Similarly, [a bodhisattva] is also skilled in the principles of ordinary secular behavior and the acts that are beneficial to the world.
+:::
+
+
+## <font color='indianred'>examples</font>
+
+*dhātuḥ saṃketena <b>vyavahāra</b>-padaṃ gacchati /*  suvikrāntavikrāmiparipṛcchā, 8. \"…a world finds conventional expression by way of agreed symbols.\" [Conze 12]
+
+*athavā saṃvṛtiḥ saṃketo loka-<b>vyavahāra</b> ity arthaḥ /*  prasannapadā, 215. \"Again, the everyday means social convention, that is, the world of ordinary language and of transactions between individuals […].\" [Sprung 230]
+
+*<b>vyavahāraṃ</b> puraskṛtya prajñapty-arthaṃ śarīriṇām kṛpayā lokanāthais tvam ucyase ca na c ^ ocyase //*  prajñāpāramitāstotra, 18. \"Saviours of the world, from pity, so that men might understand, speak of thee, observing custom, yet of thee they do not speak.\" [Conze (1954) 149]
+
+*<b>vyavahāra</b>-kṛtaṃ nāma prajñaptir nāma-darśitā / ratna-citro hy ayaṃ nāmnā ratnottama-par ^ eti //*  śikṣāsamuccaya, 241. \"Names are created by social convention; names are seen, nominally; one man is named Ratnacitra, and another, Ratnottama.\" [Goodman 232]
+
+*pañca emāni bhikṣavaḥ saṃjñā-mātraṃ pratijñā-mātraṃ <b>vyavahāra</b>-mātraṃ saṃvṛti-mātraṃ yaduta atīto adhvā anāgato adhvā ākāśaṃ nirvāṇaṃ pudgalaś c ^ eti //*  prasannapadā, 167. \"Il y a, O, Moines, cinq choses qui ne sont que des noms, des désignations, des expressions de la vie quotidienne, et qui ne relèvent que du plan mondain, à savoir, le passé, l'avenir, l'espace, l'individu et le Nirvāṇa.\" [DeJong 42]
+
+*tasmāt tathāgato mahākāruṇiko lokasya ^ uttrāsa-pada-parihār^ ārthaṃ <b>vyavahāra</b>-vaśād uktavān ; utpadyate nirudhyate c ^ eti na c^ ātra kasyacid dharmasya ^ utpādaḥ iti /*  bhāvanākrama1&3, 177. \"Therefore, the supremely compassionate Tathagata, in order to abolish the world's areas of fear had said for practical reasons, that 'there is birth, there is cessation', and certainly not (for the reason) that, in the ultimate sense, any dharma is born.\" [Sharma 24]
+
+*yathā-prasiddhaṃ loka-<b>vyavahārato</b> niścitam āśritya gṛhītvā vicāro vimarśaḥ sarva ucyate abhidhīyate / sarva iti na kaścid eva vicāro api saṃvṛtim āśritya pratanyate na tu paramārtha-satyam tasya sarva-<b>vyavahāra</b>-ātikrāntatvād ity arthaḥ // *  bodhicaryāvatārapañjikā, 249. \"It is said, it is stated, every investigation, examination, is based on, takes hold of, what is ascertained in accordance with what is generally admitted, according to conventional usage of the world. This is the meaning: Every, not just one, investigation proceeds based on the conventional, but not on absolute truth because that surpasses every conventional usage.\" [Oldmeadow 534.6]
+
+*kṛtrimaṃ nāma vācyāśca dharmāste kalpitā yataḥ / śabdārthayorna sambandhastena svābhāviko mataḥ // 48 // bāhya-ārtha-ābhiniveśas tu bhrāntyā bālasya jṛmbhate / tath ^ aiva <b>vyavahāro</b> ayaṃ tv atr ārtho asti kaścana // 49 //*  prajñāpāramitāpiṇḍārtha, 48. “Name is factitious and things, in so far as they are nameable, are imputed; therefore it is impossible to think that the relation between the objects and their name corresponds to something essential. The attachment to external things as if they were real is proper to the fools and is the consequence of an error; therefore this is a convention adopted in common life, but in reality there is nothing.\" [Tucci 64]
+
+*a-satsu sarva-dharmeṣu prajñaptiḥ kriyate mayā / abhilāpo <b>vyavahār</b>aś ca bālānāṃ tattva-varjitaḥ //*  laṅkāvatārasūtra, 135. \"I establish thought-constructions where all things are non-existent; whatever expressions and experiences that belong to the ignorant are not of the truth as it is.\" [Suzuki 259]
+
+*yaṃ ca dharmaṃ bhāṣiṣyati ; so 'sya smṛto na sa saṃpramoṣaṃ yāsyati / ye kecil laukikā loka-<b>vyavahār</b>ā bhāṣyāṇi vā mantrā vā ; sarvāṃs tān dharma-nayena saṃsyandayiṣyati /*  saddharmapuṇḍarīka, 221. \"And the sermon he preaches will not fade from his memory. The popular maxims of common life, whether sayings or counsels, he will know how to reconcile with the rules of the law.\" [Kern 351]
+
+*so ahaṃ kulaputra yāni imāni loke lipi-saṃjñā-gatāni saṃkhyā-gaṇanā-mudrā-nikṣepa-jñāna-vividha-śilpa-jñānāni dhātutantrāṇi viṣaya-prayoga-pratibhānakāni śoṣ^-āpasmāra-bhūta-preta-graha-pratiṣedhakāni grāma-nagara-nigama-paṭṭan^-odyāna-tapovan^-āvasatha-niveśana-jñānāni abhiprāya-prakāra-prāsāda-gavākṣa-kūṭāgāra-pariṇāha-jñānāni vividha-yantra-ratha-kriy^-opacāra-jñānāni kṣem^-ā-kṣema-bhay^-ā-bhaya-nimitta-jñānāni kṛṣi-vāṇijya-<b>vyavahāra</b>-kriyā-prayoga-jñānāni sarv^-āṅga-pratyaṅga-lakṣaṇa-cār^-opacāra-vicāra-jñānāni sugati-durgati-karma-patha-viśuddhay anugama-jñānāni kuśal^-ā-kuśala-dharma-gaṇa-pūjā-jñānāni sugati-durgati-saṃbhāra-jñānāni śrāvaka-pratyekabuddha-yāna-saṃbhāra-jñānāni tathāgata-bhūmi-saṃbhāra-jñānāni hetu-kriyā-prayog^-opacāra-jñānāni tāni sarvāṇi prajānāmi /*  gaṇḍavyūhasūtra, 102. \"So I know all the various arts and crafts and sciences in the world dealing with writing, mathematics and symbols, physiology, rhetoric, physical and mental health, city planning, architecture and construction, mechanics and engineering, divination, agriculture and commerce, conduct and manners, good and bad actions, good and bad principles, what makes for felicity and what for misery, what is necessary for the vehicles of buddhas, disciples, and individual illuminates, what is necessary for buddhahood, and behavior linking reason and action. I know all these sciences, […].\" [Cleary 1229]
+
+*tasya taṃ nagaraṃ vārāṇasī kāśi-janapadaṃ ṛddhaṃ ca sphītaṃ ca kṣemaṃ ca subhikṣaṃ ca ākīrṇa-jana-manuṣyaṃ ca bahujana-manuṣyaṃ ca sukhita-manuṣyaṃ ca praśānta-ḍimba-ḍamaraṃ su-nigṛhīta-taskaraṃ <b>vyavahāra</b>-saṃpannaṃ //*  mahāvastu, 3.125. \"His city of Benares and the province of Kasi were flourishing, rich and peaceful, had plenty of food and were thickly peopled with happy subjects. Riots and tumults had been quelled, robbers were held in check, and trade thrived.\" [Jones vol. III 122]
+
+

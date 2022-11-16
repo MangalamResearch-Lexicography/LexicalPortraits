@@ -12,6 +12,7 @@ book:
   chapters:
     - index.qmd
     - prajJapti.qmd
+    - prapaJca.qmd
     - vitarka.qmd
     - vyavahAra.qmd
     - bibliography.qmd
