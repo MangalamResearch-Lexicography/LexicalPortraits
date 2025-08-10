@@ -1,7 +1,6 @@
 project:
   type: book
   output-dir: docs
-  twitter-card: true
 
 book:
   title: "Lexical Portraits"
@@ -11,6 +10,8 @@ book:
   image: SynchordLanguage.png
   chapters:
     - index.qmd
+    - citta.qmd
+    - ghoSa.qmd
     - prajJapti.qmd
     - vitarka.qmd
     - vyavahAra.qmd

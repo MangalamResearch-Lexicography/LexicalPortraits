@@ -210,7 +210,6 @@ Conversely, we annotate semantic prosody as positive if the concept expressed by
 
 Given the rarity of positive semantic prosody in the vocabulary explored in the Visual Dictionary and Thesaurus of Buddhist Sanskrit we categorize all positive occurrences as pos, even when they would better lend themselves to neu.pos, for analogy with neu.neg above.
 
-
 ## examples
 
 #### positive {#sec-examplesemprospos}
@@ -233,7 +232,6 @@ Given the rarity of positive semantic prosody in the vocabulary explored in the 
 **sarva-*prajñapti*-samatikrāntaṃ lokottaram ity ucyate /**\[suvikrāntavikrāmiparipṛcchā, 4\]\
 "...one speaks of the 'supramundane' as of that which has completely transcended all verbal concepts."\[Conze 5\] "prajñapti68suvikrāntavikrāmiparipṛcchā"
 :::
-
 
 ## <font color='indianred'>examples</font>
 

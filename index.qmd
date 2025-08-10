@@ -14,18 +14,12 @@ The vocabulary we intend to cover in our Lexical Portrait is a subset of the hea
 
 ### corpus
 
-The Lexical Portraits are based on a ~7 million words corpus of Buddhist Sanskrit literature that we are currently expanding thanks to funding from the <a href='https://khyentsefoundation.org/ashoka-grants/'  target='_blank'> Khyentse Foundation</a>. 
+The Lexical Portraits are based on a \~7 million words corpus of Buddhist Sanskrit literature that we are currently expanding thanks to funding from the <a href='https://khyentsefoundation.org/ashoka-grants/'  target='_blank'> Khyentse Foundation</a>.
 
-The corpus is available on <a href='https://bit.ly/BuddhistSanskritCorpus'>Zenodo</a>; the `info` tabs of each portrait detail which version of the corpus has been used for a particular portrait. 
+The corpus is available on <a href='https://bit.ly/BuddhistSanskritCorpus'>Zenodo</a>; the `info` tabs of each portrait detail which version of the corpus has been used for a particular portrait.
 
 Graphs and information based on manual annotations draw on the subset of the corpus that is used for our dictionary. Please refer to the `Corpus` section of the <a href='https://mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>Visual Dictionary and Thesaurus of Buddhist Sanskrit</a> for a list of the texts included on the subcorpus we use for manual annotation.
-
 
 ### team
 
 The Lexical Portraits are created by Ligeia Lugli on the basis of linguistic annotations by Luis Gamaliel Quiñones Martinez.
-
-
-
-
-
