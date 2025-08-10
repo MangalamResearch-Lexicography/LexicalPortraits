@@ -1,0 +1,100 @@
+---
+title: "dharma"
+editor: visual
+---
+
+::: column-margin
+*dīrghā jāgarato rātrir dīrghaṃ śrāntasya yojanam / dīrgho bālasya saṃsāraḥ sad-**dharmam** a-vijānataḥ //* \[*patna_dharmapada,* 185dhp60\]\
+"Long is the night for one who sleeps not, long is a league for one tired, long is the round of births and deaths for fools who know not True Dhamma." \[Bhikkhu 93\]
+:::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+The word *dharma* pertains predominantly to the domain of `Existence`. Here, it typically expresses the sense of `cosmic law`, which comprises the fundamental principles governing the `natural order` of reality, or `reality/truth`,[^dharma-1] and, by extension, the `Buddhist doctrine (Dharma)`,[^dharma-2] which purportedly explains such truth.[^dharma-3]
+
+[^dharma-1]: putravat pālito lokaḥ purataḥ pārthivaiḥ śubhaiḥ / mṛg-\^āraṇyī-kṛtaḥ so adya kali-**dharma**-samāśritaiḥ // 90 // *catuḥśatikā* 4.15.\
+    "Previously, society was protected like a son by virtuous kings. Now it is made into a hunting ground by those who rely on the law of an age of discord." \[Lang 51\]
+
+[^dharma-2]: etat tu **dharma**-gāmbhīryaṃ yat tad guhyaṃ pṛthagjane / māy-\^opamatvaṃ lokasya buddhānāṃ śāsan-\^āmṛtaṃ // 02—09 // *ratnāvalī* 2.08\
+    "In this consists the very depth of our doctrine, viz. that it remains a secret for the ordinary people. The teaching that the world is to be compared with a magic play represents the essence of the doctrine of all Buddhas." \[Tucci 241\]
+
+[^dharma-3]: sa ev \^ān-asravo dhātur a-cintyaḥ kuśalo dhruvaḥ / sukho vimukti-kāyo asau **dharm**-\^ākhyo ayaṃ mahāmuneḥ // 30 // *triṃśikā* 29\
+    "This is itself the untainted realm, Inconceivable, good, and eternal, Peaceful and blissful, the body of liberation, And what the great Muni called the Dharma."
+
+Still within the domain of `Existence`, *dharma* also signify `things/phenomena`, a sense that spans general idea of `phenomena` [^dharma-4] as well we the specialized application os *dharmas*, the `constituents of reality`[^dharma-5] that form the building blocks of experience in Abhidharma metaphysics.
+
+[^dharma-4]: a-vikalpa-dhātu-pratiṣṭhito hi bodhisattvo mahāsattvo jñeya-nir-viśiṣṭena nir-vikalpena jñānen ākāśa-sama-talān sarva-**dharmān** paśyati / *nirvikalpapraveśadhāraṇī* 10\
+    "Those bodhisattvas, great beings who are established in the nonconceptual realm see, with their nonconceptual knowing wisdom that is indistinguishable from what is known, that all phenomena are like the expanse of space." \[Damron & 84000: Translating the Words of the Buddha 1.13\]
+
+[^dharma-5]: 25 aṣṭādaśa dhātavaḥ // cakṣuḥ-śrotra-ghrāṇa-jihvā-kāya-mano-rūpa-gandha-śabda-rasa-sparśa-**dharma**-dhātavaḥ cakṣur-vijñāna-śrotra-vijñāna-ghrāṇa-vijñāna-jihvā-vijñāna-kāya-vijñāna-mano-vijñāna-ghātavaś c \^eti // *dharmasaṃgraha* 330\
+    "There are eighteen elements, {1} eye, {2} ear, {3} nose, {4} tongue, {5} body, {6} mind, {7} form, {8} smell, {9} sound, {10} taste, {11} tangible, {12} and thought elements; {13} eye-consciousness, {14} ear-consciousness, {15} nose-consciousness, {16} tongue-consciousness, {17} body-consciousness, {18} and mind-consciousness elements." \[Bhikkhu 26-7\]
+
+Within the semantic domain `Relationship`, *dharma* displays further terminological applications within the general sense of `quality`. It denotes the buddha-qualities, typically presented in highly formalized lists,[^dharma-6] and, in logical argumentation, the `quality/property`of an object.[^dharma-7]
+
+[^dharma-6]: ca sva-kṛt-\^ārthasya munes tathāgatasya bala-vaiśārady-\^ādi-sarv-\^āveṇika-buddha-**dharma**-saṃniśrayeṇā pramāṇeṣu sattveṣv a-pramāṇ-\^ārtha-kriyā / *bodhisattvabhūmi* 16\
+    "and (4) the performance of immeasurable forms of beneficial activities for the sake of an immeasurable number of sentient beings by a muni and a tathāgata who has completed \[the perfection of\] his own aim and \[who carries out those activities\] on the basis of the \[one hundred and forty\] unique qualities of a buddha, which include the \[ten\] powers, the \[four\] forms of intrepid confidence, and so forth."
+
+[^dharma-7]: buddhau hi sādhana-**dharmo** a-mūrtatvam asti sādhya-dharmo nityatvaṃ n \^āsti / *nyāyapraveśakasūtra* 3.3.1\
+    "Here the mark, incorporeality, resides in the intellect, but the sadhya, permanence, does not, …"
+
+In the domain `Action/operation` *dharma* finds less specialized applications and conveys the sense "rightness", which appears both in doctrinal or secular contexts, usually with a reference to the appropriate moral conduct.[^dharma-8]
+
+[^dharma-8]: kāruṇiko mah-\^ātmā **dharma**-kāmaḥ sat-vatsalas tena ca śāstrāṇy adhītāni / *suvarṇavarṇāvadāna* 14.3—17.3\
+    "… compassionate, magnanimous, loving righteousness and dear to beings. He studied all the treatises." \[Rajapatirana\]
+
+![semantic tree](www/dharma_semanticTree.webp){#fig-semTree}
+
+### <font color='indianred'>frequency & register</font> {#sec-frequency}
+
+Not surprisingly, *dharma* is among the very top-frequency words in our corpus. It is also among the most evenly dispersed across genres. Still, as is to be expected, *dharma* is most frequent sūtras. Because of its preminence in scriptures, it occurrences of the word *dharma* are also more concentrated in the foundational and classical period, when most sūtras were produced.
+
+The relative under-representation of this word in narrative sources suggests that it was more closely associated with the homletic and scholastic register than to the general language.
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_dharma.webp){#fig-freqcurve}
+
+## genre dispersion {#sec-genreDP}
+
+![genre dispersion](www/dharma_GenreDP.webp){#fig-genreDP}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_dharma.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_dharma.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Several collocational patterns featuring dharma are noteworthy. Among them, *dharma-deśanā* (dharma-teaching) represents a crucial compound denoting the act of expounding Buddhist doctrine, frequently appearing in sūtra literature to describe the Buddha's pedagogical activities.[^dharma-9] Closely related to this is the compound *dharma-bhāṇaka*, which denotes Buddhist preachers, and *sad-dharma* (true dharma), which emphasizes the authenticity of Buddhist teaching.[^dharma-10] Moving away from the verbal dimension of *dharma* and into more transcendental territory, *dharma-dhātu* indicates the realm of ultimate reality.[^dharma-11] and *dharma-kāya* (dharma-body) the embodiment of truth. In the sense of constinutent factors, an ubiquituous collocation in abhidharma contexts is *caitasika-dharma*, mental factor. Finally, *buddha-dharma* if a frequent compound whose meaning varies with contexts, referring in turn to to the qualities or teachings of buddhas.[^dharma-12]
+
+[^dharma-9]: ekaikayā **dharma**-deśanayā yāvanto gaṅgā-nadī-vālukā-samair buddhair bhagavadbhiḥ sattvā vinītāḥ / *saptaśatikaprajñāpāramitā* 341\
+    "… and if each single Tathagata by each single demonstration of Dharma were to discipline as many being as has been disciplined by each single demonstration of Dharma on the part of the Buddhas and Lords countless as the sands of the Ganges —" \[Conze 81\]
+
+[^dharma-10]: prapūrau ca viśuddhau ca **dharma**-kāyasy \^eti daśamyāṃ bhūmau paripūrir buddhabhūmau viśuddhiḥ / *mahāyānasūtrālaṃkāra* 93\
+    "In 'for the fulfillment and purification of the body of truth,' 'fulfillment' is the tenth bodhisattva stage, 'purification' the buddha stage." \[Thurman 180\]
+
+[^dharma-11]: sarva-dharmāṇāṃ niḥ-svabhāvatā śūnyatā tathatā bhūta-koṭiḥ **dharma**-dhātur ity ādi-paryāyāḥ / *bodhicaryāvatārapañjikā* 171\
+    "Absence of essential nature, emptiness, suchness, real limit, sphere of the real etc. are synonyms." \[Oldmeadow 354.3\]
+
+[^dharma-12]: yaḥ subhūte tathāgatena dharmo abhisaṃbuddhas tatra na satyaṃ na mṛṣāḥ tasmāt tathāgato bhāṣate / sarva-dharmā buddha-**dharmā** iti / *vajracchedikā* 0\
+    "In the dharma to which the Realized One has fully awakened, there is no truth and no falsehood. Therefore the Realized One preaches ‘All dharmas are Buddha-dharmas.’"
+
+![collocations wordcloud](www/wordcloud_dharma.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+In our annotated data, *dharma* has a predominantly `neutral` semantic prosody, with significant positive associations and occasional negative ones. `Positive` hues typically appear when *dharma* refers to Buddhist doctrine or beneficial qualities, as exemplified in the *Bodhicaryāvatāra*: buddhaṃ gacchāmi śaraṇaṃ yāvadā bodhi maṇḍataḥ / **dharmaṃ** gacchāmi śaraṇaṃ bodhisattva-gaṇaṃ tathā //.[^dharma-13] `Negative` semantic prosody occurs primarily in contexts discussing the absence or corruption of *dharma*, such as in the Ratnaguṇasaṃcayagāthā: "choritva **dharma** kariṣyanti a-**dharma**-kāryaṃ patha hitva utpatha-gatā ima māra-karma //".[^dharma-14]
+
+[^dharma-13]: buddhaṃ gacchāmi śaraṇaṃ yāvadā bodhi maṇḍataḥ / **dharmaṃ** gacchāmi śaraṇaṃ bodhisattva-gaṇaṃ tathā // *bodhicaryāvatāra* 2.25\
+    "I take refuge with the Enlightened One, awaiting the coming of the perfect Light; I take refuge in the Law and the Congregation of sons of Enlightenment."
+
+[^dharma-14]: "Having spurned what is right \[Dharma\], they will do what is wrong; having left the right path, they have gone to a wrong road. This also is Mara’s deed." \[Conze\]
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>

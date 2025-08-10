@@ -38,9 +38,7 @@ editor: visual
 [^vastu-9]: na tu paramārthato darśanam asti yen \^ aivaṃ dṛṣṭ\^-ādi-vyavahāraḥ / vedanā tena n\^ ekṣyate yena dṛṣṭa-sukha-sādhan\^-ādi-vyavahāro apy anyata eva tena kāraṇena vedanā n\^ ekṣyate na dṛśyate **vastutaḥ** // *bodhicaryāvatārapañjikā* 243\
     "\[…\] but there is not seeing absolutely because the seen etc. is likewise conventional usage. Therefore sensation is not perceived. Because even the conventional usage of the seen, means of bringing about pleasure etc. is as an other, for this reason sensation is not perceived." \[Oldmeadow 520.16\]
 
-
 ![semanticTree](www/vastu_semanticTree.webp){#fig-semTree}
-
 
 ### <font color='indianred'>frequency</font> {#sec-frequency}
 
@@ -52,7 +50,6 @@ editor: visual
 ![frequency relative to other words in the corpus](www/ZipfCurveFreq_vastu.webp){#fig-freqcurve} \## dispersion by genre {#sec-genreDP}
 
 ## genre dispersion {#sec-genreDP}
-
 
 ![genre dispersion](www/vastu_genreDP.webp){#fig-genreDP}
 

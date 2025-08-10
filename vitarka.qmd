@@ -193,7 +193,6 @@ Conversely, we annotate semantic prosody as positive if the concept expressed by
 
 Given the rarity of positive semantic prosody in the vocabulary explored in the Visual Dictionary and Thesaurus of Buddhist Sanskrit we categorize all positive occurrences as pos, even when they would better lend themselves to neu.pos, for analogy with neu.neg above.
 
-
 ## examples
 
 #### negative
@@ -224,7 +223,6 @@ Given the rarity of positive semantic prosody in the vocabulary explored in the 
 
 **iha dharm\^āvasthā-vido manyante kuśalānāṃ dharmāṇām ekonaviṃśaṃ-śatam / \[...\] *vitarkānāṃ* prīteḥ pramādasya a-prasrabdheḥ /** \[vigrahavyāvartanī, 232\] "In this context, people who know the state of things have the 119 auspicious things in mind. Thus the following are auspicious in one of their aspects: \[...\] (46) utter torment, (47) dissatisfaction, (48) deliberation, (49) pleasure, (50) clarity, \[...\]." \[Westerhoff 22\]
 :::
-
 
 ## <font color='indianred'>examples</font>
 
