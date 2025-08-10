@@ -11,8 +11,10 @@ book:
   chapters:
     - index.qmd
     - citta.qmd
+    - dravya.qmd
     - ghoSa.qmd
     - prajJapti.qmd
+    - saMkalpa.qmd
     - vitarka.qmd
     - vastu.qmd
     - vyavahAra.qmd
