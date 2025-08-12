@@ -1,0 +1,69 @@
+---
+title: "āśaya"
+editor: visual
+---
+
+::: column-margin
+*atha ca yath-\^ādhimuktāḥ sarva-sattvā nānā-dhātv-**āśayās** tāṃ tāṃ vividhāṃ tathāgata-vācaṃ niścarantīṃ saṃjānanti* / \[*Prasannapadā* ,236\] "Yet all creatures, according to their propensities, perceive the voice of the perfected one as it issues forth in the various dialects of their homelands; …" \[Cleary 263\]
+:::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+At its core, the term āśaya expresses two ideas: `intention`and`seat or base of something`. In our corpus, the former finds two closely related semantic applications: "**intention**" properly, as purposeful mental states or clearly verbalized aim (*rāṣṭrapālaparipṛcchā*)[^azaya-1]; and "**inclination**", as a less clearly defined, unconscious motivational basis or mental disposition behind actions and thoughts (*saddharmapuṇḍarīka* 28)[^azaya-2]. The distinction between these two senses is not always clear-cut, being more a continuum between a concrete, conscious intention and a more vague, underlying volitional disposition. In contrast to this specialized sense, the general and more concrete idea of `seat or base of something` typically denotes bodily containers or receptacles, particularly in medical or anatomical contexts. The *Arthaviniścayasūtra* provides clear examples: "pakk-āśayaḥ" (cooked-food container/stomach) and "vāyv-āśayaṃ" (wind container), demonstrating the term's concrete physical applications alongside its predominant psychological meanings.
+
+[^azaya-1]: sarva-sattva-sama-citta sūratā eka-putrakavad īkṣate jagat / sarvam etad api mocayāmy aham evam **āśaya** tath \^āgra-pudgalāḥ // 51 // *rāṣṭrapālaparipṛcchā* 125\
+    "The mild-mannered, who possess equanimity toward all sentient beings, behold the world like an only son: ‘I will liberate them all’—such is the intention of the highest men." \[Boucher 121\]
+
+[^azaya-2]: te api sarve anuttarāyāḥ samyaksaṃbodher lābhino bhaviṣyanti // aham api śāriputra etarhi tathāgato arhan samyaksaṃbuddho bahujana-hitāya bahujana-sukhāya lok-\^ānukampāyai mahato janakāyasy \^ārthāya hitāya sukhāya devānāṃ ca manuṣyāṇāṃ ca nān-\^ābhinirhāra-nirdeśa-vividha-hetu-kāraṇa-nidarśan-\^ārambaṇa-nirukty-upāya-kauśalyair nān-\^ādhimuktānāṃ sattvānāṃ nānā-dhātv-**āśayānām** āśayaṃ viditvā dharmaṃ deśayāmi / *saddharmapuṇḍarīka* 28\
+    "… out of pity to the world, for the benefit, weal, and happiness of the great body of creatures, and who preached the law to gods and men with able means, such as several directions and indications, various arguments, reasons, illustrations, fundamental ideas, interpretations, paying regard to the dispositions of creatures whose inclinations and temperaments are so manifold, …" \[Kern 40-1\]
+
+![semantic tree](www/Azaya_semanticTree.webp)
+
+### <font color='indianred'>frequency & register</font>
+
+In our corpus *āśaya* is a high-frequency word, with a remarkable consistency across Buddhist Sanskrit literature. The distribution across genres shows a strong presence in narrative sources, indicating that while it plays a role in the Buddhist psychology, where it is part of the rich lexicon of mental states and intentionality, *āśaya* was also part of more day-to-day vocabulary.
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_Azaya.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_Azaya.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_Azaya.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font>
+
+Several collocational patterns illuminate *āśaya*'s semantic range. The compound *āśayānuśaya* appears frequently, particularly in formulaic contexts describing the Buddha's knowledge of beings' mental dispositions, e.g. "*tasyā āyuṣmatā mahākātyāyanen āśay-ānuśayaṃ dhātuṃ prakṛtiṃ ca jñātvā*" \[*Divyāvadāna*\][^azaya-3]. The general idea of `seat or base` typically occurs in contructions with *āśaya* in fine compositi: *guhāśayam* [^azaya-4] (taking caves as abode) *pakkāśaya*[^azaya-5] (stomach, the receptacle of cooked food), and *jalāśaya*[^azaya-6] (pond/lake).
+
+[^azaya-3]: "Knowing her inclinations, propensities, makeup, and nature, he then gave her a discourse on the dharma …" \[Rotman\]
+
+[^azaya-4]: dūraṃ gamam eka-caram a-śarīraṃ guh-\^**āśayam** / tenai x x x kasya brāhmaṇam / x x xu x x x x brāhmaṇaṃ taṃ bravīmy aham *udānavarga* 3354\
+    "He who, thinking not of the body, lives in a cave, and wanders about all alone, …" \[Rockhill XXXI.9\]
+
+[^azaya-5]: asthi-snāyu-sirā-vṛkkā hṛdayam āmaka-āmāśayaḥ pakk-\^**āśayaḥ** antrāṇi antraguṇā odari-īyakaṃ yakṛt-parīṣam aśru-svedaḥ khelakaḥ siṃghāṇako vasā lasīkā majjā medaḥ pittaṃ śleṣmā pūyaṃ śoṇitaṃ mastakaluṅgam uccāra-prasravaiḥ pūrṇaṃ nānā-prakāraka-maśu-cir iti / *arthaviniścayasūtra* 316\
+    "There are in this body: Hairs of the head, body hairs, nails, teeth, filth, skin, flesh, bones, sinews, nerves, kidneys, heart, spleen, pleura, intestines, mesentery, upper stomach, food, stomach, liver, excrement, …" \[Ānandajoti Bhikkhu 50\]
+
+[^azaya-6]: tadyath \^ānuśrūyate bodhisattvaḥ kil \^ānyatamasmin vividha-varṇa-gandha-rasa-saṃpanna-phala-bhārā vanata-drum-\^opagūḍhe vikaca-surabhi-kusuma-vallī-virājita-paryante marakata-maṇi-prabhā-harita-śādvala-kuth-\^āstīrṇa-viṣama-bhūmi-bhāge kamala-kuvalay-\^ākar-\^onmīlita-vimala-jal-\^**āśaya**-parigrahe mahaty araṇye vānarādhipatir babhūva // *gopadatta_jātakamālā1_2_4_5_7_8_9_10_11_12_13_14_16* 4.1\
+    "As it is known, the Bodhisattva was once born as the leader of a group of monkeys, in a large forest that was concealed by trees … and which contained lakes with clear water on which bunches of water-lilies were blossoming.” \[Hahn 63\]
+
+![collocations wordcloud](www/wordcloud_Azaya.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font>
+
+The semantic prosody of *āśaya* is fundamentally neutral but takes up various tinges in different cotexts. It takes a positive hue in compounds like *kalyāṇa-āśaya* ("good inclination") and *śuddha-āśaya* ("pure inclination") (*lalitavistara* 19)[^azaya-7]. Negative shades are less frequent, but do occur, especially in the context of unwholesome mental states, such as in the compound "*duṣṭa-āśayo ripuḥ*" (an ill-intentioned enemy) (*devatāsūtra* 1544.1)[^azaya-8].
+
+[^azaya-7]: anye api sattvāḥ kapilāhvaye pure sarve su-śuddh-**\^āśaya** dharma-yuktāḥ / udyāna-ārāma-vihāra-maṇḍitā kapilāhvaye śobhati janma-bhūmiḥ // 3 5 // *lalitavistara* 19\
+    "All the other beings in the city of Kapilavastu Are righteous and pure in mind. The city is filled with gardens, groves, and palaces; The beautiful city of Kapilavastu is the most suitable birthplace." \[Dahl et al. & 84000: Translating the Words of the Buddha 3.41\]
+
+[^azaya-8]: vatsalo bandhavaḥ ko asau ko vā duṣṭ-\^**āśayo** ripuḥ *devatāsūtra* 1544.1\
+    "Who is he who is a loving kinsman? Or who is the adversary with a malignant intention?" \[Tseng 283\]
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
