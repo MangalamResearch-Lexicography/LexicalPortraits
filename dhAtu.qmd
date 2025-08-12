@@ -1,0 +1,90 @@
+---
+title: "dhātu"
+editor: visual
+---
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+*dhātu* lexicalizes various aspects of the conceptual domain of `Existence`. At its core, it expresses the borad notion of foundation, which then finds several different semantic instantiations depending of the context. In Buddhist cosmological contexts, it means the foundation of a certain planes of existence, that is `realm\sphere` or `world`, such as the desire realm (kāmadhātu), form realm (rūpadhātu), and formless realm (ārūpyadhātu).[^dhatu-1] In the context of discussions of perception and cognition, *dhātu* denotes the `foundation of perception`, understood as various elemental categories such as the eighteen elements (*aṣṭādaśadhātu*) which include the six sense bases, their corresponding objects, and the consciousnesses arising from their contact.[^dhatu-2] *Dhātu* can also refer to the fundamental nature of a person, the inherent `character` of sentient beings that guides their actions and thoughts; [^dhatu-3] as well as to the foundation of the physical world, with the meaning `element`, e.g. the classical four great elements—earth, water, fire, and wind—sometimes expanded with space and consciousness.[^dhatu-4] In more practical semantic applications, *ahātu* can denote `bodily relic`, indicating the remains of the Buddha or other revered beings, such as bone fragments that are considered sacred and worthy of veneration;[^dhatu-5] and `metal ore`.[^dhatu-6] Finally, the same core notion of foundation extends to the domain of `Language`, where *dhātu* means "**verbal root**", understood as the fundamental constituent of language.[^dhatu-7]
+
+[^dhatu-1]: upaguptaś ca vāsavadattāyāḥ śarīra-svabhāvam avagamya kāma-**dhātu**-vairāgyaṃ gataḥ / *aśokāvadāna* 13\
+    "And coming to an understanding of the inherent nature of Vāsavadattā's body, he himself became disgusted with the realm of desire, …" \[Strong 183\]
+
+[^dhatu-2]: aṣṭa-daśa dhātavaḥ cakṣur-dhātū rūpa-dhātuś cakṣur-vijñāna-**dhātuḥ** śrotra-dhātuḥ śabda-dhātuḥ śrotra-vijñāna-**dhātur** ghrāṇa-dhātur gandha-dhātur ghrāṇa-vijñāna-dhātur jihvā-dhātū rasa-dhātur jihvā-vijñāna-dhātuḥ kāya-dhātuḥ spraṣṭavya-dhātuḥ kāya-vijñāna-dhātur mano-dhātur dharma-dhātur mano-vijñāna-dhātuś ca // *pañcaskandhaka* 19\
+    "There are eighteen constituents: the eye constituent, the form constituent, the eye-consciousness constituent, the ear constituent, the sound constituent, the ear-consciousness constituent, the nose constituent, the smell constituent, the nose-consciousness constituent, the tongue constituent, the taste constituent, the tongue-consciousness constituent, the body constituent, tangible-object constituent, the body-consciousness constituent, the mind constituent, the entity constituent, and the mind-consciousness constituent." \[Engle 241\]
+
+[^dhatu-3]: tasyā āyuṣmatā mahākātyāyanen \^āśay-\^ānuśayaṃ **dhātuṃ** prakṛtiṃ ca jñātvā tādṛśī catur-ārya-samprativedhikī dharma-deśanā kṛtā yāṃ śrutvā viṃśati-śikhara-samudgataṃ satkāya-dṛṣṭi-śailaṃ jñāna-vajreṇa bhittvā srotāpatti-phalaṃ sākṣāt kṛtam / *divyāvadāna_selection* 488_029\
+    "Knowing her inclinations, propensities, makeup, and nature, he then gave her a discourse on the dharma that elucidated the four noble truths. When she heard this, with her thunderbolt of knowledge she broke through that mountain, which is the false view of individuality that arises with its twenty peaks of incorrect views, and directly experienced the reward of the stream-enterer." \[Rotman\]
+
+[^dhatu-4]: yad\^āmbu-bhū-vāyv-analāś ca **dhāt**avaḥ sadā viruddhā viṣamā iv\^oragāḥ / bhavanty an-arthāya śarīram āśritāḥ kathaṃ balaṃ roga-vidho vyavasyasi // *saundarananda* 9.12\
+    "12. Seeing that the elements, water, earth, wind and fire coalescing in a body, ever war together like vicious snakes and lead to disaster, disease is part of your very nature; how then can you conclude you have strength?" \[Johnston 49\]
+
+[^dhatu-5]: nirvṛtau ca sthiti dharma yādṛśī yādṛśī ca jina-**dhātu**-pūjanā / dharma-kośa-dhara tatra yādṛśā tān prajānasi narottam-ā-khilān // 24 // *rāṣṭrapālaparipṛcchā* 123\
+    "'What sort of Dharma will continue to exist after your nirvāṇa; what sort of worship \[will be rendered\] for the Victor’s relics; and of what sort then will be those who preserve the treasury of the Dharma'—all these, you know, Highest of Men." \[Boucher 117\]
+
+[^dhatu-6]: \[…\] himavat-pārśve vividha-**dhāt**u-rucira-citrāṅga-rāge nīla-kauśeya-prāvāra-kṛt-ottar-āsaṅga iva vana-gahana-lakṣmyā prayatna-racitair iv\^ān-eka-varṇa-saṃsthāna-vikalpair vaiṣamya-bhakti-citrair vibhūṣita-taṭ\^āntadeśe \[…\] *jātakamālā* 162\
+    "There is a blessed region on one side of the Himavat. Its soil, pervaded with different, metallic ores, might be called its body perfumed with lovely and various ointments; and its magnificent woods and forests constituted its upper garment, as it were, consisting in a mantle of dark silk. The slopes and declivities of that landscape were adorned by their picturesque scenery, which harmonized the inequality of colours and shapes and combinations, so that they seemed to have been arranged purposely and with care." \[Speyer 302\]
+
+[^dhatu-7]: upasargeṇa **dhātv**-artho balād anyatra nīyate / gaṅgā-salila-mādhuryaṃ sāgareṇa yath \^āmbhasā // *prasannapadā* 2\
+    "The meaning of the \[verbal\] root is forcibly led elsewhere by the prefix, As the sweetness of the water of the Ganges by ocean water—" \[MacDonald 19\]
+
+![semantic tree](www/dhAtu_semanticTree.webp){#fig-freqcurve}
+
+### <font color='indianred'>frequency & register</font> {#sec-frequency}
+
+*Dhātu* is a high-frequency word in our corpus. However its occurrences are mostly concentrated in sūtra literature. Its normalized frequency is also high sādhanas and tantra, and low in all other genres. This suggest a preminence in religious discourse over philosophical or narrative contexts, which might have lent *dhātu* a distinctively formal ,perhaps even hieratic, register.
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_dhAtu.webp)
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_dhAtu.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_dhAtu.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Our annotated data showcases several specialized compounds that position *dhātu*'s in the Buddhist cosmological vocabulary. The most frequent is **skandha-dhātv-āyatana**, which denotes a comprehensive categorization of existence.[^dhatu-8]
+
+[^dhatu-8]: tasmāt tarhi mahāmate bodhisattvair mahāsattvais tathāgata-kāy\^-ānugamena pratilābhinā skandha-**dhātv**-āyatana-citta-hetu-pratyaya-kriyā-yog\^-otpāda-sthiti-bhaṅga-vikalpa-prapañca-rahitair bhavitavyaṃ citta-mātr\^-ānusāribhiḥ // *laṅkāvatārasūtra* 20\
+    "Therefore, Mahāmati, these Bodhisattva-Mahāsattvas who wish, by following the Tathāgatakaya, to realise it, should exercise themselves, in compliance with the truth of Mind-only, to desist from discriminating and reasoning erroneously on such notions as Skandhas, Dhātus, Āyatanas, thought, causation, deed, discipline, and rising, abiding, and destruction." \[Suzuki 39\]
+
+**Dharma-dhātu** emerges as a particularly significant compound, often denoting the ultimate nature of reality, as exemplified in the *bodhicaryāvatārapañjikā.*[^dhatu-9] The **aṣṭādaśa dhātavaḥ** (eighteen elements) represents a systematic enumeration fundamental to Abhidharma analysis, while **loka-dhātu** (world-system) appears frequently in cosmological contexts.[^dhatu-10]
+
+[^dhatu-9]: sarva-dharmāṇāṃ niḥ-svabhāvatā śūnyatā tathatā bhūta-koṭiḥ dharma-**dhātur** ity ādi paryāyāḥ / *bodhicaryāvatārapañjikā* 171\
+    "Absence of essential nature, emptiness, suchness, real limit, sphere of the real etc. are synonyms." \[Oldmeadow 354.3\]
+
+[^dhatu-10]: tatra bhikṣavaḥ katame 'ṣṭādaśa **dhāt**avaḥ ? tadyathā — cakṣur-dhātuḥ / rūpa-dhātuḥ / cakṣur-vijñāna-dhātuḥ / śrotra-dhātuḥ / śabda-dhātuḥ / śrotra-vijñāna-dhātuḥ / ghrāṇa-dhātuḥ / gandha-dhātuḥ / ghrāṇa-vijñāna-dhātuḥ / jihvā-dhātuḥ / rasa-dhātuḥ / *arthaviniścayasūtra* 311\
+    "What, monks, are the eighteen elements? 'The eye element, form element, and eye-consciousness element; the ear element, sound element, and ear-consciousness element; the nose element, smell element, and nose-consciousness element; the tongue element, taste element, \[…\].'" \[Samtani 62\]
+
+    yādṛśī ca sā sukhāvatī loka-**dhātuḥ** tādṛśaṃ tad buddha-kṣetraṃ bhaviṣyati / *ajitasenavyākaraṇa* 112\
+    "… and that Buddha-field will be like the world-system of Sukhāvatī." \[Hirabayashi et al. 104\]
+
+Specific element compounds like **pṛthivī-dhātu**, **ab-dhātu**, **tejo-dhātu**, and **vāyu-dhātu** represent the classical four-element analysis, while consciousness-related terms like **vijñāna-dhātu** and **mano-dhātu** reflect psychological categorizations.[^dhatu-11]
+
+[^dhatu-11]: 1—1 catvāri mahābhūtāni katamāni / pṛthivī-dhātur ab-dhātus tejo-**dhātur** vāyu-dhātuś ca // *pañcaskandhaka* 1\
+    "What are the four great elements? The earth constituent, the water constituent, the fire constituent, and the air constituent." \[Engle 229\]
+
+    iti mahārāja vijñāna-**dhātur** vijñāna-dhātutvena śūnyo n opalabhyate anyatra vyavahārāt / *śikṣāsamuccaya* 250\
+    "Your Majesty, the consciousness element is empty of being the consciousness element, and is not apprehended except in virtue of social convention." \[Goodman 239\]
+
+![collocations wordcloud](www/wordcloud_dhAtu.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+*Dhātu* reveals a predominantly **neutral** semantic prosody, with occurrence in some notable positive context and rare negative use. A positive connotation emerges primarily in *Tathāgatagarbha* contexts, such as "*nirvāṇa-dhātur iti bhagavaṃs tathāgata-dharmakāyasy\^aitad adhivacanam*," where *dhātu* denotes the pure Buddha-nature.[^dhatu-12] A neutral-negative prosody occurs in contexts of philosophical negation, as exemplified in passages like "skandha-dhātv-āyatan-\^ādi-svabhāvatayā bhagavatā bhāvāḥ sūtre deśitāḥ" where conventional categories are deconstructed.[^dhatu-13]
+
+[^dhatu-12]: "‘The Sphere of the Nirvāṇa, Lord, is the name for the Absolute Body of the Tathāgata’." \[Takasaki 261\]
+
+[^dhatu-13]: \[…\] apy a-vidyā-niryātānāṃ skandha-**dhāt**v-āyatan\^opagānāṃ sarva-dharmāṇāṃ traidhātuk\^opapannānāṃ dṛṣṭa-sukha-saṃsthānām abhilāpya-gati-viśeṣāḥ / *laṅkāvatārasūtra* 8\
+    "From ignorance there develop the Skandhas, Dhātus, Āyatanas, with all kinds of objects accompanying, which grow out in the triple world where we have, as we see, happiness, form, speech, and behaviour, each differentiating \[infinitely\]." \[Suzuki 17-18\]
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
