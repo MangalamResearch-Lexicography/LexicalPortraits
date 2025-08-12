@@ -1,0 +1,63 @@
+---
+title: "vicāra"
+editor: visual
+---
+
+::: column-margin
+
+*dvitīyād dhyānāt prabhṛtyā bhavāgrād a-vitarkā a-**vicārāḥ*** / \[*abhidharmakośabhāṣya*, 22\] "In the higher stages up to and including the last stage, these same are free from both vitarka and vicāra." \[Pruden 96\]
+
+::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+*Vicāra's* belongs to the semantic domain of `Thought`, where it finds two semantic applications: its core meaning of "**reasoning**" and a terminological specialization of it as "**a caitasika dharma**".
+
+in the former, broader sense, *vicāra* is indicates deliberate analytical investigation and logical examination.[^vicara-1]
+
+[^vicara-1]: \[…\] tasmād evaṃ **vicār**eṇa n \^ āsti kiṃcid a-hetutaḥ / *bodhicaryāvatārapañjikā* 268\
+    "Therefore on examination in this way nothing exists without a cause." \[Oldmeadow 142ab\]
+
+In the latter sense it denotes a mental factor associated with maintaining focused attention and sustained application of mind, particularly in meditative contexts.[^vicara-2]
+
+[^vicara-2]: prathamaṃ dhyānaṃ pañcāṅgam / pañcāṅgāni vitarko **vicār**aḥ prītiḥ sukhaṃ citt\^aikāgratā ca // *abhidharmasamuccaya* 32\
+    "The first absorption consists of five factors. These five factors are: reasoning, deliberation, joy, happiness (ease), and one-pointedness of mind." \[Boin-Webb 150\]
+
+![semantic tree](www/vicAra_semanticTree.webp)
+
+### <font color='indianred'>frequency & register</font> {#sec-frequency}
+
+*Vicāra* is a `high-frequency word` in our corpus, with a markedly skewed genre distribution that sees term highly concentrated in **śāstra** literature, especially f the commentarial period. This distribution suggest a primarily scholastic register of this word, not only for its terminological application as node in the taxonomy of dharmas, but also in the its wider sense of reasoning or analysis e.g.:
+
+> *eṣāṃ ca vistareṇa **vicār**o madhyamakāvatār\^ādibhyo avaseyaḥ // \[prasannapadā,* 80\]\
+> "A detailed investigation of these topics can be had in the Madhyamakāvatāra and other works." \[Sprung 124\].
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_vicAra.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_vicAra.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_vicAra.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Several collocational patterns reveal *vicāra*'s role into Buddhist technical vocabulary. The most prominent is the compound **vitarka-vicāra** (initial and sustained application of thought). This compoud represents a fundamental dyad in Buddhist meditation theory, where it refers to the two types of thought characteristic of the first *dhyāna*.
+
+Another significant pattern involves the privative formations ***a-vicāra*** (without *vicāra*) and related compounds like ***a-vitark-ā-vicārā*** (without *vitarka* and *vicāra*). These expressions typically describe higher meditative states where discursive mental activity has been transcended, as exemplified in the *Śrāvakabhūmi*: "*sa vitarka-**vicār**āṇāṃ vyupaśamād adhyātma-saṃprasādāc cetasa ekotī-bhāvād a-vitarkam a-vicāraṃ samādhi-jaṃ prīti-sukhaṃ dvitīyaṃ dhyānam upasaṃpadya viharati*" (through the calming of vitarka and vicāra, through inner confidence, through the unification of mind, he attains and abides in the second dhyāna, which is without vitarka and vicāra, born of samādhi, with joy and happiness).
+
+![collocations wordcloud](www/wordcloud_vicAra.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+Vicāra's semantic prosody is predominantly **neutral**, with significant negative associations and minimal positive ones. The negative prosody typically appears in contexts describing advanced meditative states where *vicāra* is transcended or absent. For example, from the *Abhidharmakośabhāṣya*: "dvitīyād dhyānāt prabhṛtyā bhavāgrād a-vitarkā a-**vicār**āḥ" (from the second dhyāna onward to the peak of existence, \[they are\] without vitarka and without vicāra).
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
