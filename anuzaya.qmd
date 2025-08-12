@@ -1,0 +1,53 @@
+---
+title: "anuśaya"
+editor: visual
+---
+
+::: column-margin
+vigata-kleśa-paryavasthānam api kleśa-sānubandhaṃ s**ānuśayam** api kleśa-nir-anubandhaṃ nir-anuśayam api mithyā-praṇihitam api cittaṃ jānāti / \[*bodhisattvabhūmi* 49\] He or she also knows the minds \[of other beings\] that have been freed of the perturbation caused by the mental afflictions, as well as those \[minds\] that have a connection with the mental afflictions and are associated with the latencies, those \[minds\] that have no connection with the mental afflictions and are free of the latencies, as well as those \[minds\] that possess an aspiration that is directed improperly—. \[Engle\]
+:::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+The lemma *anuśaya* functions exclusively within the semantic domain of `Will`, where it manifests two closely related senses: the general sense of `proclivity/disposition`, typically of the undesirable variety (e.g. disposition to craving), and the narrower senses of an espacially bad disposition: `hatred`. The former sense, by far the most represented across the different textual traditions and genres in our corpus, is part of the Buddhist psychological vocabulary. It denotes to the idea of underlying, latent tendencies that characterize and influence the thoughts and behavior of sentient being. Thus, in Yogācāra and other contexts it is common to find references to the need of knowing these tendencies of sentient beings in order to offer them an appropriate instruction (*bodhisattvabhūmi* 272; *abhidharmasamuccaya* 37). The sense `hatred` is much less frequent in our corpus, and appears mosty as a narrowing of the previous sense determined mainly by the context (*kāśyapaparivarta* 8v).[^anuzaya-1]
+
+[^anuzaya-1]: *karma-vipāka-pratisaraṇo na pareṣāṃ kupyati n \^**ānuśayaṃ** vahati* / *kāśyapaparivarta* 8v\
+    "… accepting them as the result of previous actions and thus not being angry with others, nor bearing them any grudge."
+
+![semantic tree](www/anuzaya_semanticTree.webp)
+
+### <font color='indianred'>frequency</font> {#sec-frequency}
+
+In our corpus *anuśaya* is a mid-frequency word, with an uneven distribution across various genres, having a predominant presence in *śāstra* literature, reflecting the term's specialised usage. However, it also present in narrative and scriptural sources, indicating that while *anuśaya* found specialized application in scholastic literature it maintained a presence across diverse textual traditions.
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_anuzaya.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_anuzaya.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_anuzaya.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+In our corpus, several significant multi-word expressions featuring *anuśaya* can be found. The compound "*āśay-ānuśaya*" ("dispositions and proclivities") constitutes an especially salient collocation in buddhist psychology, where it is used to sum up a being's mental tendencies. Typically this collocation occurs in contexts describing the Buddha's knowledge of beings' mental states, as in the *Avadānaśataka*: "atha bhagavān preta-pūrviṇāṃ deva-putrāṇām āśay-ānuśayaṃ dhātuṃ prakṛtiṃ ca jñātvā" \[Vaidya, 124\] ("Alors Bhagavat, connaissant à fond les dispositions, les tendances morales, les éléments et la nature intime de ces fils de dieux autrefois Prêtas, …" \[Feer 177\]).
+
+Another notable collocational pattern sees *anuśaya* compounded with words that denote specific temperaments' afflictions, such as "rāg-ānuśaya" (a proclivity to attachment) and "tṛṣṇ-ānuśaya" (a proclivity to cravig), and thus participating in the classification of different types of latent tendencies according to their emotional or cognitive content.
+
+![collocations wordcloud](www/wordcloud_anuzaya.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+The semantic prosody analysis reveals a predominantly negative evaluation of *anuśaya*, based mainly on the Buddhist understanding of *anuśaya* as representing unwholesome mental tendencies that require elimination or transformation.
+
+The negative connotation is particularly evident in contexts discussing spiritual purification, e.g. *Udānavarga* 315: "evaṃ hi tṛṣṇ-ānuśayair anuddhṛtair nirvartate duhkham idaṃ punaḥ punaḥ" ("… so it is that if even the smallest atom of lust has not been eradicated, one will not leave behind this ever-recurring suffering (i.e., existence)." \[Rockhill\]). The neutral instances typically occur in descriptive or analytical contexts where the term functions as a technical psychological category.
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
