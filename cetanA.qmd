@@ -1,0 +1,65 @@
+---
+title: "cetanā"
+editor: visual
+---
+
+
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+The meaning of *cetanā* lies at the intersection between the semantic domains of `Thought` and `Will`, where it 
+spans three distinct senses. First and foremost, *cetanā* refers to a form of `volitional thinking`, understood as the mental impulse behind bodily, verbal, or mental actions, especially in discussions about *karma*.[^cetana-1] In Abhidharma contexts, this sense finds a terminological application where cetanā serves as `a caitasika dharma`, specifically the mental factor that drives or urges the mind toward a specific object or goal.[^cetana-2] More broadly, *cetanā* also expresses the notion of `consciousness` intended as the defining characteristic of a sentient being.[^cetana-3]
+
+[^cetana-1]: **cetanā** citt-\^ābhisaṃskāro manasaś ceṣṭā yasyāṃ satyām ālambanaṃ prati cetasaḥ praspanda iva bhavaty ayaskānta-vaśād ayaḥ-praspandavat / *triṃśikābhāṣya* 58\
+    "Cetanā or will is the mental effort that conditions (re-arranges) the mind; which being there, the mind flows in a stream towards the object (of cognition) as does iron towards the mass of a magnet." \[Chatterjee 46\]
+
+[^cetana-2]: \[…\] cakṣuḥ pratītya rūpāṇi c \^ otpadyate cakṣur-vijñānaṃ trayāṇāṃ saṃnipātaḥ sparśaḥ saha-jātā vedanā saṃjñā **cetan**\^eti / *abhidharmakośabhāṣya* 146\
+    "(The Vaibhasikas:) If sensation is later than contact, you have to take into account the Sutra, 'By reason of the eye and visible things there arises visual consciousness; the coming together of the three is contact; together there arises (sahajāta) sensation, ideas, volition'." \[Pruden 429\]
+
+[^cetana-3]: a-**cetanaś** ca n \^aiv \^āham a-caitanyāt paṭ-\^ādivat / atha jñaś **cetanā**-yogād a-jño naṣṭaḥ prasajyate // *bodhicaryāvatāra* 9.68\
+    "That which is not conscious is not 'I' because it lacks con­sciousness like an object such as a cloth. If it is a conscious thing because it possesses consciousness it follows that when it stops being conscious of something it perishes." \[Crosby & Skilton 122\]
+
+
+![semantic Tree](cetanA_semanticTree.webp.webp)
+
+### <font color='indianred'>frequency & register</font> {#sec-frequency}
+
+*Cetanā* is a mid to low frequency word in our corpus, with its highest concentration in **śāstras** and very little occurrences in narrative literature. This may indicate a primarily technical function of this term. 
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_cetanA.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_cetanA.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_cetanA.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Collocational patterns featuring cetanā can be found throughout our corpus. The compound "**citt-ābhisaṃskāra**" (mental formation/volition) appears frequently, defining *cetanā*'s essential characteristic as mental activity that shapes consciousness.[^cetana-4] The compound "**vedanā-saṃjñā-cetanā**" (feeling-perception-volition) represents a standard enumeration of universal mental factors.
+
+[^cetana-4]: **cetanā** citt-\^ābhisaṃskāro manasaś ceṣṭā yasyāṃ satyām ālambanaṃ prati cetasaḥ praspanda iva bhavaty ayaskānta-vaśād ayaḥ-praspandavat / *triṃśikābhāṣya* 58\
+    "Cetanā or will is the mental effort that conditions (re-arranges) the mind; which being there, the mind flows in a stream towards the object (of cognition) as does iron towards the mass of a magnet." \[Chatterjee 46\]
+
+Particularly significant is the karmic formulation "**cetanā karma cetayitvā ca**" (volition is karma, and having willed), which establishes *cetanā* as both the mental act of willing and the karmic force generated thereby.[^cetana-5] This dual function appears prominently in Abhidharma literature, where *cetanā* serves as the crucial link between mental intention and ethical consequence.
+
+[^cetana-5]: tathā **cetanā** karma cetayitvā karma iti vacanāc ca / *bodhicaryāvatārapañjikā* 222\
+    "And likewise in accordance with the statement, 'Intention (cetanā) is action; having intended is action.'" \[Oldmeadow 471.8\]
+
+![collocations wordcloud](www/wordcloud_cetanA.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+In our annotated data, the semantic prosody of *cetanā* is predominantly `neutral`.
+Still, `positive` hues emerge in contexts discussing wholesome mental cultivation, e.g. in the *Lalitavistara*: "tasy \^aiva me viharataḥ prāptasya \^uttama-**cetanām**" (having attained supreme volition).
+A more `negative` prosody occurs when the term is negated in discussions of ultimate reality, such as in the *Kāśyapaparivarta*: "yatra kāśyapa na **cetanā** na mano na vijñānam" (where there is neither volition, nor mind, nor consciousness).
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
