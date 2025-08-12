@@ -1,0 +1,73 @@
+---
+title: "vedanā"
+editor: visual
+---
+
+::: column-margin
+*sparśa-pratyayā vedanā vedanā-**pratyayā** tṛṣṇā* ; \[*saddharmapuṇḍarīka*, 117\] "… from contact sensation; from sensation proceeds longing;…" \[Kern, 172\]
+:::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+*Vedanā* belongs to the semantic domain of **`Physical sensation`**, where it presents a limited range of semantic applications. It core meaning can be summarized as `feeling/sensation`, the physical response that arises when the internal sense organs come into contact with external sensory objects.[^vedana-1] *Vedanā* can also denote specifically `pain`, both physical and emotional, which is a narrower experiential category within the sense `feeling/sensation`.[^vedana-2] Finally, a terminological application of its core meaning is instantiatied in the specialized sense `one of the 5 skandhas`, considered a fundamental mental factor central to perception and consciousness.[^vedana-3]
+
+[^vedana-1]: saṃnipātas trayāṇāṃ yo rūpa-vijñāna-cakṣuṣām / sparśaḥ sa tasmāt sparśāc ca **vedanā** saṃpravartate // 26—5 // *mūlamadhyamakakārikā* 26.4\
+    "5. That which is the coincidence of visual form, consciousness, and the eye: That is sensual perception; and from perception, sensation begins to function."
+
+[^vedana-2]: śāmyantu **vedanās** tīvrā nārakāṇāṃ bhayāni ca / durgatibhyo vimucyantāṃ sarva-durgati-vāsinaḥ // *bodhicaryāvatāra* 10.15\
+    "Let them quiet the intense agonies and fears of hell. May those dwelling in misfortune be released from their misfortunes."
+
+[^vedana-3]: evam eva mahā-rāja rūpa-**vedanā**-saṃjñā-saṃskāra-vijñanāṃ svabhāvo n \^ābhūn na bhaviṣyati na c \^aitarhi vidyate ity ādi // *śikṣāsamuccaya* 256\
+    "In just the same way, Your Majesty, the intrinsic nature of form, feeling, conceptions, conditioning and consciousness was not, will not be, and does not exist now."
+
+<font color='steelblue'> Genre, Period, and Tradition Distribution</font>
+
+![semantic tree](www/vedanA_semanticTree.webp)
+
+### <font color='indianred'>frequency</font> {#sec-frequency}
+
+*Vedanā* is a very high-frequency word in our corpus, where has a very uneven distribution, with most occurrences concentrated in **sūtra** literature.
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_vedanA.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_vedanA.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_vedanA.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Several collocational patterns featuring *vedanā* are noteworthy. The most prominent is the **skandha enumeration** "*rūpa-vedanā-saṃjñā-saṃskāra-vijñāna*", which appears consistently across different text-types.[^vedana-4] Another important pattern is **"duḥkhā vedanā"** (painful sensation), often in contexts describing suffering or its cessation.[^vedana-5]
+
+[^vedana-4]: evam eva mahā-rāja rūpa-**vedanā**-saṃjñā-saṃskāra-vijñanāṃ svabhāvo n \^ābhūn na bhaviṣyati na c \^aitarhi vidyate ity ādi // *śikṣāsamuccaya* 256\
+    "In just the same way, Your Majesty, the intrinsic nature of form, feeling, conceptions, conditioning and consciousness was not, will not be, and does not exist now."
+
+[^vedana-5]: tena satyena satya-vacanen \^āsya śarīrād duḥkha-**vedanā** pratipraśrabhyatām iti / *suvarṇavarṇāvadāna* 200.1—203.204\
+    "… by that truth, by that asseveration of truth, may the feeling of pain be allayed from his body."
+
+The **causal chain expression** "sparśa-pratyayā vedanā vedanā-pratyayā tṛṣṇā" (sensation conditioned by contact, craving conditioned by sensation) appears in multiple texts, representing the standard formulation of the links of dependent origination.[^vedana-6] Additionally, **"vedanāsu vedanā-smṛty-upasthāna"** (mindfulness of sensations in sensations) represents the specialised use in meditation contexts.[^vedana-7]
+
+[^vedana-6]: sparśa-pratyayā **vedanā** vedanā-pratyayā ca tṛṣṇā / *bodhicaryāvatārapañjikā* 208\
+    "Feeling is conditioned by contact and craving is conditioned by feeling."
+
+[^vedana-7]: tat sukhaṃ yatra veditaṃ n \^āsti sa sarva-satva-vedita-prahāṇāya **vedanāsu** **vedanā**-smṛty-upasthānaṃ bhāvayati / *śikṣāsamuccaya* 232\
+    "'Where there are no feelings, this is happiness.' They cultivate the application of mindfulness to feelings so that all sentient beings will give up feelings, …"
+
+![collocations wordcloud](www/wordcloud_vedanA.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+Notably, in our annotated data *vedanā*'s semantic prosody is never positive. It is mostly neutral, especially when *vedanā* functions as a technical philosophical term, particularly in skandha enumerations, as in "rūpaṃ vedanā saṃjñā saṃskārā vijñānam" \[Aṣṭasāhasrikā\].
+
+Negative prosody dominates when *vedanā* denotes painful or unpleasant experiences, exemplified in passages like "pragāḍha-duḥkha-vedan-ābhyāhato murcchitas tiṣṭhati" from the Suvarṇavarṇāvadāna. Neutral-negative prosody appears in contexts where *vedanā* is discussed as a phenomenon to be transcended, reflecting Buddhism's broader approach to experiential categories.
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
