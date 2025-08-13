@@ -1,0 +1,32 @@
+---
+title: "ruta"
+editor: visual
+---
+
+::: column-margin
+"**yathārutaṃ** vikalpitvā samāropenti dharmatām / te ca vai tat-samāropāt patanti narak\^ālaye" \[*Laṅkāvatārasūtra* ,63\] ("Those who following words, discriminate and assert various notions, are bound for hell because of their assertions." \[Suzuki 135\])
+:::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+*ruta* expresses various aspects of domain of `Language` with an emphasis of its audible dimension. In our annotated data it often express the meaning of `utterance/spoken words` , a sense in which *ruta* is usually negated, conveying the idea of something that cannot be put into words or verbalized (*jñānālokālaṃkāra* 42). More generally it can mean `sound of speech/voice`, where it foregrounds the auditive qualities of language, and not its communicational dimension. In this sense *ruta* usually features in positive similes involving the voice of brahma or talking birds (*laṅkāvatārasūtra* 58). The auditive dimension of language comes to the fore also in the meaning `word` , where *ruta* typically signifies literal adhesion of the words of teachings, traditionally orally learned, and is opposed to understanding the meaning of those teachings (`+ yathā literal`).
+
+Finally within the semantic domain `Physical sensation`, *ruta* can mean `sound (esp. melodious),` pointing to auditory experiences that provoke an emotional or aesthetic response, such as a like that of singing and of musical instruments (*daśabhūmikasūtra* 82) and a "**vocal sound (oft non-human)**" like that of birds or mythological creatures (*saddharmapuṇḍarīka* 211).
+
+
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Several collocational patterns featuring *ruta* can be pointed out. The compound **yathāruta** (literally "as spoken/heard") is well represented, consistently carrying negative semantic prosody in philosophical contexts where it denotes problematic literal interpretation of teachings. This expression is particularly prominent in Yogācāra texts, as seen in the *laṅkāvatārasūtra* e.g. "tatr\^edam ucyate — **yathārut**aṃ vikalpitvā samāropenti dharmatām / te ca vai tat-samāropāt patanti narak\^ālaye //"\[*laṅkāvatārasūtra* 63\] ("Those who following words, discriminate and assert various notions, are bound for hell because of their assertions." \[Suzuki 135\]).
+
+Another notable pattern involves *ruta* in compounds describing divine or melodious sounds, such as **kalaviṅka-ruta** (kalavinka bird's sound) and **brahma-ruta** (divine sound), which consistently carry positive connotations and appear in descriptions of supernatural vocal qualities.
+
+![collocations wordcloud](www/wordcloud_ruta.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+The semantic prosody analysis reveals a full connotational gamut. Overall, `neutral` prosody predominates, indicating that *ruta* tends to function as a descriptively neutral word for the sound of speech. However, `negative` connotations are also well represented, frequently in contexts where literal interpretation of words (*yathāruta*) is critiqued. `Positive` connotation accompanies descriptions of melodious sounds or divine speech.
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>

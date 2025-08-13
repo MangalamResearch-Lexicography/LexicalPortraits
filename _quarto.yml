@@ -10,6 +10,7 @@ book:
   image: SynchordLanguage.png
   chapters:
     - index.qmd
+    - adhimukti.qmd
     - anuzaya.qmd
     - Azaya.qmd
     - cetanA.qmd
@@ -20,6 +21,7 @@ book:
     - dravya.qmd
     - ghoSa.qmd
     - prajJapti.qmd
+    - ruta.qmd
     - saMkalpa.qmd
     - vitarka.qmd
     - vastu.qmd

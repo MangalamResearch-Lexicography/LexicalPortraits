@@ -1,0 +1,69 @@
+---
+title: "adhimukti"
+editor: visual
+---
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+*adhimukti* belongs mainly to the domain of **`Belief`**, where it expresses three closely related senses. The most prominent is `conviction`, intended as steadfast acceptance of the Buddhis doctrine, which enables a practitioner, typically a bodhisattva, to hold fast to faith and advance on the path to liberation.[^adhimukti-1] This sense finds a specialized application in the sense `power of conviction`, which refers to the capacity of effecting miraculous changes in the world merely by strongly believing in them,[^adhimukti-2] or to the mastery of resolution as one of the ten strengths of a Bodhisattva.[^adhimukti-3] In this same vein, the sense `resolution/determination` is understood as a mental state of reolve to hold on to a teaching or meditative object.[^adhimukti-4] This brings adhimukti closer to the demain of `Thought`, where it expresses the meaning of `attentiveness`.
+
+[^adhimukti-1]: mahāyāna-parama-dharm-**\^ādhimukti**-bhāvanāyā hi tathāgato atyanta-śubha-dharma-dhātu-paramat-\^ādhigamād dharma-dhātu-paramaḥ saṃvṛttaḥ / *ratnagotravibhāga* 32\
+    "Indeed, the Tathāgata, through the practice of faith in the highest Doctrine of the Great Vehicle, has attained the highest state of the Absolute Essence which is the ultimate purity, hence he has become the highest Absolute Essence." \[Takasaki 213\]
+
+[^adhimukti-2]: pratigṛhya c \^aikaṃ pātram adhitiṣṭhati sma **adhimukti**-balena / *lalitavistara* 279\
+    "When he had accepted it, he transformed all four alms bowls into one through the power of his wish, …" \[Dahl et al. & 84000: Translating the Words of the Buddha 24.108\]
+
+[^adhimukti-3]: āyur-vaśitā citta-vaśitā pariṣkāra-vaśitā dharma-vaśitā ṛddhi-vaśitā janma-vaśitā **adhimukti**-vaśitā praṇidhāna-vaśitā karma-vaśitā jñāna-vaśitā c \^eti // *dharmasaṃgraha* 333\
+    "There are ten masteries of the Bodhisattvas, {1} mastery of life, {2} mastery of mind, {3} mastery of discipline, {4} mastery of dharma, {5} mastery of spiritual power, {6} mastery of birth, {7} mastery of resolution, {8} mastery of aspiration, {9} mastery of deeds, {10} and mastery of knowledge." \[Bhikkhu 55-6\]
+
+[^adhimukti-4]: artha-pratisaṃvidā catur-aśīti-sattva-carita-sahasrāṇāṃ yath \^āśayaṃ yath \^endriyaṃ yath **\^ādhimukti**-vibhaktitas tathāgata-ghoṣaṃ prajānati / *daśabhūmikasūtra* 52\
+    "By the analytical knowledge of meaning he understands the voice of Tathāgata according to the intentions, the faculties and the distinctions of resolute beliefs in eighty-four thousand ways of conduct of living beings." \[Honda 248\]
+
+The distribution across Buddhist traditions reveals interesting patterns. Yogācāra texts show a preference for the "conviction" sense, as exemplified in the *Bodhisattvabhūmi*: "sā punar adhimuktir dvābhyāṃ kāraṇābhyāṃ su-sanniviṣṭā bhavati" (that conviction becomes well-established through two causes). The "Resolution/determination" sense appears more frequently in foundational sūtra literature, particularly in Prajñāpāramitā texts, where it often denotes spiritual resolve or determination toward enlightenment.
+
+<font color='steelblue'> Genre and Temporal Distribution</font>
+
+![semantic tree](www/adhimukti_semanticTree.webp)
+
+### <font color='indianred'>frequency</font> {#sec-frequency}
+
+*Adhimukti* is a mid-frequency word in our corpus, well attested in sūtras and scholastic treatises, but rare in narrative contexts. This distributional pattern, alongside semantic analysis, positions *adhimukti* as word likely pertaining to the formal register and applied in docrinal contexts.
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_adhimukti.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_adhimukti.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_adhimukti.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Some compounds featuring adhimukti have crystallized into technical terms; most notably *Adhimukti-bala* (power of conviction), which appears frequently in contexts describing the spiritual capabilities of advanced practitioners.
+
+A significant syntactical pattern involving *adhimukti* is the instrumental constructions (*adhimuktyā*), which indicates the means by which spiritual activities are accomplished.[^adhimukti-5]
+
+[^adhimukti-5]: evaṃ c \^āsya pariṇāmo nir-viṣaḥ pariṇāmo mahā-pariṇāmo dharma-dhātu-pariṇāmaḥ paripūrṇaḥ su-paripūrṇo bhavati adhyāśayena adhimuktyā pariṇāmayataḥ // aṣṭasāhasrikā 78"… it becomes perfect, quite perfect, through the earnest intention and the resolve of him who turns over. " \[Conze 49\]
+
+The expression *yathādhimukti* (according to conviction/inclination) appears consistently across genres, suggesting individual adaptation of teachings based on personal spiritual capacity and inclination.[^adhimukti-6]
+
+[^adhimukti-6]: abhiniṣkramya ca tasmin mahā-druma-rāja-mūle abhiniṣadya sabalaṃ māraṃ dharṣayitvā anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaṃ daśabhis tathāgata-balaiḥ samanvāgataṃ caturbhiś ca tathāgata-vaiśāradyaiḥ samanvāgatam aṣṭādaśabhiś c \^āveṇikair buddha-dharmaiḥ samanvāgataṃ triparivartaṃ dvādaśā-kāram anuttaraṃ dharmacakraṃ pravartayantaṃ mahatā buddha-vikrīḍitena sa-deva-mānuṣ-\^āsura-lokaṃ yath**\^ādhimuktyā** su-bhāṣitena saṃtoṣayantam iti // *lalitavistara* 111\
+    "When shall we see him accessing the ten powers of the thus-gone ones, the four types of fearlessness of the thus-gone ones, and the eighteen unique qualities of a buddha? \[F.82.b\] Or spinning the unexcelled wheel of Dharma in its twelve aspects? Or teaching, through a vast display of buddhahood, according to the wishes of the world, including its gods, humans, and demigods, and satisfying them?" \[Dahl et al. & 84000: Translating the Words of the Buddha 13.3\]
+
+![collocations wordcloud](./www/wordcloud_adhimukti.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+The semantic prosody of *adhimukti* in our corpus is predominantly neutral, though notable positive and negative colorations appear. Positive instances often occur in contexts describing advanced practitioners or ideal spiritual states
+
+Negative prosody appears when *adhimukti* is absent or deficient, typically marked by the prefix *an-* or compounds like *hīn-ādhimukti* (inferior conviction).
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
