@@ -1,0 +1,65 @@
+---
+title: "cetas"
+editor: visual
+---
+
+::: column-margin
+*iti parasattvānāṃ parapudgalānāṃ **cetas** \^aiva cittaṃ yathā-bhūtaṃ prajānāti /* \[*daśabhūmikasūtra*, 21\] "Thus he knows truly the minds of other living beings and persons with his mind." \[Honda 161\]
+:::
+
+### <font color='indianred'>overview</font> {#sec-overview}
+
+*cetas* expresses two semantic nuances within the domain of **Thought**, the general notion of `mind/thought`, understood as a faculty that supports mental functions, such as perception and reasoning,[^cetas-1] and the sense `heart/state of mind`, which encompasses those mental functions that feature a clear emotional, volitional aspect.[^cetas-2]
+
+[^cetas-1]: na hy a-vitarkā vacana-pravṛttir asti iti sa-vikalpa-**ceto** avasthiten \^aiv \^ānena dharmo deśanīyaḥ / *tattvasaṃgrahapañjikā* 843\
+    "As a matter of fact, Speaking can never proceed without some Cognition; hence when He would teach Dharma, He could do so only when His mind would be in the conceptual state; …" \[Jha 1434-5\]
+
+[^cetas-2]: devā api ye tāvat kām-\^āvacarās te api tīvra-kām-\^āgni-sandīpta-mānasā ākṣipta-cittā iv \^ā-svaccha-**cetasaḥ** kṣaṇam api samādhānaṃ cetasāṃ na labhante / *bhāvanākrama1&3* 167\
+    "Even gods do not have mental composure so long as they wander in the realm of 'kāma' or desire because their minds, aflame with the raging fire of desires, are unclean and mad." \[Sharma 15\]
+
+![semantic tree](www/cetas_semanticTree.webp)
+
+### <font color='indianred'>frequency & register</font> {#sec-frequency}
+
+*Cetas* is a high-frequency word in our corpus, well represented in literary texts as well as in scholastic treatises, which points to a non-technical register alongside the more formalised use in descriptions of meditative stages:
+
+> a-vitarka-vicāra-vyupaśamād adhyātma-saṃprasādāc cetasa ekoti-bhāvād a-vitarkam a-vicāraṃ samādhi-jaṃ prīti-sukhaṃ dvitīya-dhyānam upasaṃpadyaṃ viharati / \[*arthaviniścayasūtra*, 316\] "{2} With the stilling of thinking and reflection, with internal clarity, and one-pointedness of mind, being without thinking, without reflection, having the happiness and rapture born of concentration, he dwells having attained the second absorption." \[Bhikkhu 73
+
+::: panel-tabset
+## freq graph {#sec-freqcurve}
+
+![frequency relative to other words in the corpus](www/ZipfCurveFreq_cetas.webp){#fig-freqcurve}
+
+## freq by period {#sec-periodBars}
+
+![genre frequency](www/PeriodFreq_cetas.webp){#fig-periodBars}
+
+## freq by genre {#sec-genreBars}
+
+![genre frequency](www/GenreFreq_cetas.webp){#fig-genreBars}
+:::
+
+### <font color='indianred'>context</font> {#sec-context}
+
+Several collocational and formulaic patterns featuring *cetas* can be found throughout our corpus. The most prominent is "**cetas** \^aiva **cetaḥ**-parivitarkam ājñāya" (knowing the mental deliberations of the mind), which appears repeatedly in narrative contexts where one character perceives another's mental state. This expression is particularly common in sūtra literature, exemplifying the Buddha's or advanced practitioners' ability to read minds.
+
+Another notable pattern is "sarva-**ceto**-vaśi-parama-pāramitā-prāpta" (having attained the supreme perfection of mastery over all mental states), which appears in formulaic descriptions of accomplished arhats.
+
+The expression "su-prasannena **cetasā**" (with a very clear/serene mind) appears in contexts of meritorious action, as in the Kaṭhināvadāna: "dattvā saṃghasya kaṭhinaṃ su-prasannena **cetasā**" (having given the kaṭhina robe to the saṅgha with a very serene mind), illustrating the ideal mental state for religious giving.
+
+![collocations wordcloud](www/wordcloud_cetas.webp){#fig-collocationWC}
+
+### <font color='indianred'>connotation</font> {#sec-connotation}
+
+Cetas presents a prominently neutral stance. However, there is a significant tendency toward negative semantic prosody, particularly when it appears in contexts describing mental afflictions, disturbances, or unwholesome states.[^cetas-3] Conversely, positive semantic prosody emerges in contexts describing liberated or purified mental states, as seen in passages describing accomplished practitioners.[^cetas-4] with "su-vimukta-cittaḥ sarva-**ceto**-vaśi-parama-pāramitā-prāptair" (well-liberated in mind, having attained mastery over all mental states).
+
+[^cetas-3]: auddhatya katamat / śubha-nimittam anusarato rāg-\^āṃśikaś **cetaso** a-vyupaśamaḥ / *abhidharmasamuccaya* 17\
+    "What is restlessness (auddhatya)? It is mental disquiet in him who pursues a pleasant object (śubhanimitta). It forms part of craving." \[Boin-Webb 16\]
+
+[^cetas-4]: … samyagājñā-su-vimukta-cittaiḥ sarva-**ceto**-vaśi-parama-pārami-prāptaiḥ ; *vimalakīrtinirdeśa* 1.2
+
+    Their minds were well and truly liberated through perfect understanding, they had attained the supreme perfection of mastery of all their thoughts." \[Gómez & Harrison 3\]
+
+------------------------------------------------------------------------
+
+<font size='-1'>This entry is based on version 6 of of the Visual Dictionary of Buddhist Sanskrit, see data at zenodo.org/records/13985112</font>
