@@ -9,27 +9,9 @@ editor: visual
 *karma-kleśa-kṣayān mokṣaḥ karma-kleśā vikalpataḥ / te* <b>prapañcāt</b> <b>prapañcas</b> tu śūnyatāyāṃ nirudhyate // iti // Mūlamadhyamakakārikā 18.5 & Prasannapadā, 214 "La délivrance \[s'obtient\] par l'epuisement des actes et des passions; les actes et les passions \[viennent\] de la pensée discursive (vikalpa), celle-ci de la différenciation \[du réel\] (prapañca). Mais \[cette\] différenciation, dans la vacuité, s'arrête." \[May 223\]
 :::
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ::: column-body-outset
 ![semantic tree](www/SemanticTree_prapaJca.webp){#fig-semantictree}
 :::
-
-
 
 ## <font color='indianred'>frequency</font>
 
@@ -85,9 +67,7 @@ Dispersion is calculated with Gries' deviation of proportion formula (Gries, S. 
 the <code>sense by genre</code> plot is based on a sample of sentences that we have manually annotated with semantic information for the Visual Dictionary and Thesaurus of Buddhist Sanskrit. For details about our sampling and annotation procedures see the <a href='mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/' target='_blank'>dictionary</a> documentation page.
 :::
 
-
 ## <font color='indianred'>register</font> {#sec-register}
-
 
 ::: panel-tabset
 ## Frequency by tradition {#sec-traditionBars}
@@ -109,7 +89,6 @@ The <b>height of the bars</b> in the charts indicates the <b>normalized</b> freq
 
 ## <font color='indianred'>context</font> {#sec-context}
 
-
 ::: panel-tabset
 ## keywords
 
@@ -117,9 +96,7 @@ The <b>height of the bars</b> in the charts indicates the <b>normalized</b> freq
 The size of words in the <b>wordcloud is proportional to the Log Ratio</b>. (for information on this statistics see <a href='http://cass.lancs.ac.uk/log-ratio-an-informal-introduction/' target='_blank'>Hardie 2014</a> )
 :::
 
-
-![prapañca's keywords](www/cotextWordcloud_prapaJca.webp){#fig-keywords} 
-
+![prapañca's keywords](www/cotextWordcloud_prapaJca.webp){#fig-keywords}
 
 ## info
 
@@ -134,9 +111,7 @@ The size of words in the <b>wordcloud is proportional to the Log Ratio</b>. (for
 Words in red point to the role of prapañca int he perpetuation of saṃsāric experience 'language usage'; those in blue are related to the sense 'differentation' and words in dark grey highlight the undesirable nature of prapañca in Buddhist discourse: prapañca is best removed, cut off, absent or pacified.
 :::
 
-
 ## <font color='indianred'>connotation</font> {#sec-connotation}
-
 
 ::: panel-tabset
 ## semantic prosody proportion
@@ -149,13 +124,11 @@ The barcharts are based on manually annotated data. Please refer to the document
 
 </iframe>
 
-
 ## absolute freq
 
 <iframe width="700" height="315" src="www/SemProsDodge_prapaJca.html">
 
 </iframe>
-
 
 ## info
 
@@ -171,60 +144,39 @@ Conversely, we annotate semantic prosody as positive if the concept expressed by
 
 Given the rarity of positive semantic prosody in the vocabulary explored in the Visual Dictionary and Thesaurus of Buddhist Sanskrit we categorize all positive occurrences as pos, even when they would better lend themselves to neu.pos, for analogy with neu.neg above.
 
-
 ## examples
 
 #### negative
 
-*doṣā amī tasya <b>prapañca</b>-cāriṇaḥ // … yāyāc chataṃ yojanakaṃ paraṃ varaṃ / yatra prapañco stiya vigraho vā / … mā vigraha kurvatha dusta-cittāḥ /*  śikṣāsamuccaya,  114 \"These are the disadvantages of spending time on conceptual elaboration … It’s best to go a hundred leagues away from a place where there are quarrels and conceptual elaboration … Don’t get into quarrels because of angry thoughts.\" [Goodman 113]
+*doṣā amī tasya* <b>prapañca</b>-cāriṇaḥ // … yāyāc chataṃ yojanakaṃ paraṃ varaṃ / yatra prapañco stiya vigraho vā / … mā vigraha kurvatha dusta-cittāḥ / śikṣāsamuccaya, 114 "These are the disadvantages of spending time on conceptual elaboration … It’s best to go a hundred leagues away from a place where there are quarrels and conceptual elaboration … Don’t get into quarrels because of angry thoughts." \[Goodman 113\]
 
 #### neuter-negative
 
-*an-ālayaṃ yath^ ākāśaṃ niḥ-<b>prapañcaṃ</b> nir-añjanam / ākāśa-sama-citto asi nirālamba namo astu te // 13 //*  jñānālokālaṃkāra,  71 \"Space is without abode; it is free from elaboration and stainless. Your mind is the same as space, and you are free of any point of reference: I bow to you!\" [Salvini/84000: Translating the Words of the Buddha 1.110]"
+*an-ālayaṃ yath\^ ākāśaṃ niḥ-*<b>prapañcaṃ</b> nir-añjanam / ākāśa-sama-citto asi nirālamba namo astu te // 13 // jñānālokālaṃkāra, 71 "Space is without abode; it is free from elaboration and stainless. Your mind is the same as space, and you are free of any point of reference: I bow to you!" \[Salvini/84000: Translating the Words of the Buddha 1.110\]"
 
-
-*ataḥ <b>prapañc</b>^-ātītas tathāgataḥ /* prasannapadā, 195 \"Par conséquent, il est au-delà de toute parole.\" [De Jong 84]
+*ataḥ* <b>prapañc</b>\^-ātītas tathāgataḥ / prasannapadā, 195 "Par conséquent, il est au-delà de toute parole." \[De Jong 84\]
 
 #### neuter
 
-*naiyāyikasya ^ upamāna-<b>prapañcaḥ</b> /*  tarkabhāṣā, 8 \"The Naiyayika explains identification (upamāna) as follows:\" [Kajiyama 35]
+*naiyāyikasya \^ upamāna-*<b>prapañcaḥ</b> / tarkabhāṣā, 8 "The Naiyayika explains identification (upamāna) as follows:" \[Kajiyama 35\]
 
-*bhavatv apohe kṛtinām <b>prapañco</b> vastu-svarūp^-ā-sphuraṇan tu marmma / tatr^ ā-dṛḍhe sarvvam a-yatna-śīrṇaṃ dṛḍhe tu sausthyan nanu tāvat ^ aiva //*  apohasiddhi, 0 \"May there be a long explanation of exclusion for clever people. But the vulnerable point is that a real thing’s own nature does not appear. There, if [that fact is] not firmly settled, everything is shattered without effort; but, if [this fact] is firmly settled, [then] is [exclusion] not well grounded to the fullest extent?\" [McAllister 124]
-
+*bhavatv apohe kṛtinām* <b>prapañco</b> vastu-svarūp\^-ā-sphuraṇan tu marmma / tatr\^ ā-dṛḍhe sarvvam a-yatna-śīrṇaṃ dṛḍhe tu sausthyan nanu tāvat \^ aiva // apohasiddhi, 0 "May there be a long explanation of exclusion for clever people. But the vulnerable point is that a real thing’s own nature does not appear. There, if \[that fact is\] not firmly settled, everything is shattered without effort; but, if \[this fact\] is firmly settled, \[then\] is \[exclusion\] not well grounded to the fullest extent?" \[McAllister 124\]
 
 #### positive
 
-*mahantaṃ ca mama rājyaṃ bahv-aśvaṃ bahu-pūruṣaṃ / ananta-bahu-<b>prapaṃcaṃ</b> bahv-āchādana-bhojanaṃ //*  mahāvastu,  2.483 \"A great realm is mine, rich in horses and in men, infinite in extent, and having abundant clothing and food.\" [Jones vol. II 429]
+*mahantaṃ ca mama rājyaṃ bahv-aśvaṃ bahu-pūruṣaṃ / ananta-bahu-*<b>prapaṃcaṃ</b> bahv-āchādana-bhojanaṃ // mahāvastu, 2.483 "A great realm is mine, rich in horses and in men, infinite in extent, and having abundant clothing and food." \[Jones vol. II 429\]
 :::
-
 
 ## <font color='indianred'>examples</font>
 
+*ata eva tat* <b>prapañcair</b> a-prapañcitam / <b>prapañco</b> hi vāk ; prapañcayati arthān iti kṛtvā / prasannapadā, 159 "'Non-manifestée par des idées discursives'. Les idées discursives sont des paroles qui développent des significations." \[De Jong 30\] // "For this same reason, it is ‘unstructured through conceptual structuring.’ Here, ‘conceptual structuring’ is speech because it is what conceptually structures and multiplies the objects to which it refers (prapañcayaty arthān iti kṛtvā)." \[Dunne 72\]
 
-*ata eva tat <b>prapañcair</b> a-prapañcitam / <b>prapañco</b> hi vāk ; prapañcayati arthān iti kṛtvā /*  prasannapadā,  159 \"'Non-manifestée par des idées discursives'. Les idées discursives sont des paroles qui développent des significations.\" [De Jong 30] // \"For this same reason, it is ‘unstructured through conceptual structuring.’ Here, ‘conceptual structuring’ is speech because it is what conceptually structures and multiplies the objects to which it refers (prapañcayaty arthān iti kṛtvā).\" [Dunne 72]
+*karma-kleśa-kṣayān mokṣaḥ karma-kleśā vikalpataḥ / te* <b>prapañcāt</b> <b>prapañcas</b> tu śūnyatāyāṃ nirudhyate // iti // prasannapadā, 214 "La délivrance \[s'obtient\] par l'epuisement des actes et des passions; les actes et les passions \[viennent\] de la pensée discursive (vikalpa), celle-ci de la différenciation \[du réel\] (prapañca). Mais \[cette\] différenciation, dans la vacuité, s'arrête." \[May 223\]
 
+*an-ālayaṃ yath\^ ākāśaṃ niḥ-*<b>prapañcaṃ</b> nir-añjanam / ākāśa-sama-citto asi nirālamba namo astu te // 13 // jñānālokālaṃkāra, 71 "Space is without abode; it is free from elaboration and stainless. Your mind is the same as space, and you are free of any point of reference: I bow to you!" \[Salvini/84000: Translating the Words of the Buddha 1.110\]
 
-*karma-kleśa-kṣayān mokṣaḥ karma-kleśā vikalpataḥ / te <b>prapañcāt</b> <b>prapañcas</b> tu śūnyatāyāṃ nirudhyate // iti //*  prasannapadā,  214 \"La délivrance [s'obtient] par l'epuisement des actes et des passions; les actes et les passions [viennent] de la pensée discursive (vikalpa), celle-ci de la différenciation [du réel] (prapañca). Mais [cette] différenciation, dans la vacuité, s'arrête.\" [May 223]
+*bhavatv apohe kṛtinām* <b>prapañco</b> vastu-svarūp\^-ā-sphuraṇan tu marmma / tatr\^ ā-dṛḍhe sarvvam a-yatna-śīrṇaṃ dṛḍhe tu sausthyan nanu tāvat \^ aiva // apohasiddhi, 0 "May there be a long explanation of exclusion for clever people. But the vulnerable point is that a real thing’s own nature does not appear. There, if \[that fact is\] not firmly settled, everything is shattered without effort; but, if \[this fact\] is firmly settled, \[then\] is \[exclusion\] not well grounded to the fullest extent?" \[McAllister 124\]
 
+*iti kathaṃ tat svarūpaṃ pratipādayituṃ śakyam / tathā hi sarva-*<b>prapañca</b>-vinirmukta-svabhāvaṃ paramārtha-satya-tattvam ataḥ sarv\^-opādhi-śūnyatvāt kathaṃ kayā-cit kalpanayā paśyet / kalpanā-samatikrānta-svarūpaṃ ca śabdānām a-viṣayaḥ / bodhicaryāvatārapañjikā, 175 "Then how can its intrinsic nature be taught. For it is so: The reality of absolute truth has a nature free of all conceptual elaboration, consequently, since it is empty of all particularity, how would it be perceived by way of any conceptualisation? And its intrinsic nature, surpassing conceptualisation is not the object of words; \[…\]" \[Oldmeadow 363.7\]
 
-*an-ālayaṃ yath^ ākāśaṃ niḥ-<b>prapañcaṃ</b> nir-añjanam / ākāśa-sama-citto asi nirālamba namo astu te // 13 //*  jñānālokālaṃkāra,  71 \"Space is without abode; it is free from elaboration and stainless. Your mind is the same as space, and you are free of any point of reference: I bow to you!\" [Salvini/84000: Translating the Words of the Buddha 1.110]
-
-*bhavatv apohe kṛtinām <b>prapañco</b> vastu-svarūp^-ā-sphuraṇan tu marmma / tatr^ ā-dṛḍhe sarvvam a-yatna-śīrṇaṃ dṛḍhe tu sausthyan nanu tāvat ^ aiva //*  apohasiddhi,  0 \"May there be a long explanation of exclusion for clever people. But the vulnerable point is that a real thing’s own nature does not appear. There, if [that fact is] not firmly settled, everything is shattered without effort; but, if [this fact] is firmly settled, [then] is [exclusion] not well grounded to the fullest extent?\" [McAllister 124]
-
-
-*iti kathaṃ tat svarūpaṃ pratipādayituṃ śakyam / tathā hi sarva-<b>prapañca</b>-vinirmukta-svabhāvaṃ paramārtha-satya-tattvam ataḥ sarv^-opādhi-śūnyatvāt kathaṃ kayā-cit kalpanayā paśyet / kalpanā-samatikrānta-svarūpaṃ ca śabdānām a-viṣayaḥ /*  bodhicaryāvatārapañjikā,  175 \"Then how can its intrinsic nature be taught. For it is so: The reality of absolute truth has a nature free of all conceptual elaboration, consequently, since it is empty of all particularity, how would it be perceived by way of any conceptualisation? And its intrinsic nature, surpassing conceptualisation is not the object of words; […]\" [Oldmeadow 363.7]
-
-
-
-*yadā c ^ aivaṃ buddhā bhagavantaḥ sarva-<b>prapañc</b>^-opaśānta-rūpe nirvāṇe śive a-sthāna-yogena nabhas^ īva haṃsa-rājāḥ sthitāḥ sva-puṇya-jñāna-saṃbhāra-pakṣapa-pāta-vāte vāta gagane vā gaganasy^ ākiṃcanatvāt ; tadā sarva-nimitt^-ānupalambhān na kvacid deveṣu vā manuṣyeṣu vā na kasyacid devasya vā manuṣyasya vā na kaścid dharmaḥ sāṃkleśiko vā vaiyavadāniko vā deśita iti vijñeyam /*  prasannapadā,  236 \"When the illustrious Buddhas are in nirvāṇa, the ultimate beatitude, which is the coming to rest of named things as such, they are like kingly swans in the sky, self-soaring in space or in the nothingness of space on the twin wings of accumulated merit and insight; then, it should be known, that, because they do not perceive objects as signs, no rigid 'Truth' whatsoever either concerning bondage or purification has been taught either among or for any gods or men whatsoever.\" [Sprung 262]
-
-
-
-
-
-
-
-
-
-
-
+*yadā c \^ aivaṃ buddhā bhagavantaḥ sarva-*<b>prapañc</b>\^-opaśānta-rūpe nirvāṇe śive a-sthāna-yogena nabhas\^ īva haṃsa-rājāḥ sthitāḥ sva-puṇya-jñāna-saṃbhāra-pakṣapa-pāta-vāte vāta gagane vā gaganasy\^ ākiṃcanatvāt ; tadā sarva-nimitt\^-ānupalambhān na kvacid deveṣu vā manuṣyeṣu vā na kasyacid devasya vā manuṣyasya vā na kaścid dharmaḥ sāṃkleśiko vā vaiyavadāniko vā deśita iti vijñeyam / prasannapadā, 236 "When the illustrious Buddhas are in nirvāṇa, the ultimate beatitude, which is the coming to rest of named things as such, they are like kingly swans in the sky, self-soaring in space or in the nothingness of space on the twin wings of accumulated merit and insight; then, it should be known, that, because they do not perceive objects as signs, no rigid 'Truth' whatsoever either concerning bondage or purification has been taught either among or for any gods or men whatsoever." \[Sprung 262\]
